@@ -1,6 +1,6 @@
 # Cybersecurity Information Sharing Platform
 
-**Sharing our expertise and knowledge acquired through the cybersecurity project**
+**Sharing our expertise and knowledge acquired through the cybersecurity projects**
 
 # Projects:
 
