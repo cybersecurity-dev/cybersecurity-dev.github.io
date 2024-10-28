@@ -9,10 +9,6 @@ description: Specifically focuses on defending against external threats and atta
 # Your name to show in the footer
 author: PhD Researcher
 
-###############################################
-# --- List of links in the navigation bar --- #
-###############################################
-
-navbar-links:
-  About Me: "aboutme"
-  Author's home: "https://google.com"
+header_pages:
+  - index.html
+  - aboutme.md
