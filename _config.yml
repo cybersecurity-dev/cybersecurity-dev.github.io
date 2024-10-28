@@ -8,3 +8,11 @@ title: Cyber Defence
 
 # Your name to show in the footer
 author: PhD Researcher
+
+###############################################
+# --- List of links in the navigation bar --- #
+###############################################
+
+navbar-links:
+  About Me: "aboutme"
+  Author's home: "https://google.com"
