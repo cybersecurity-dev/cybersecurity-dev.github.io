@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About me
+layout: default
+title: About
 ---
 
 My research focuses on malware detection through the application of reverse engineering techniques across Windows, Linux, and Android platforms. My areas of interest include:
