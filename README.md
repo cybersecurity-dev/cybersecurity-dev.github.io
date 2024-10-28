@@ -53,14 +53,3 @@ Docker is a set of platform as a service (PaaS) products that use OS-level virtu
 ### [Project Link](https://github.com/cybersecurity-dev/Docker-Toolkit)
 
 This project provides scripts and Dockerfiles for efficient containerization.
-
-# About Me:
-
-My research focuses on malware detection through the application of reverse engineering techniques across Windows, Linux, and Android platforms. My areas of interest include:
-* Assembly/C Programming, 
-* Operating Systems,
-* Compilers,
-* Vulnerability Research, 
-* Machine Learning
-
-I leverage artificial intelligence to advance cybersecurity solutions.
