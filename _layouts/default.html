@@ -8,23 +8,26 @@
     
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:title" content="Cyber Defence" />
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="{{ site.baseurl }}/">Home</a></li>
-        <li><a href="{{ site.baseurl }}/about">About Me</a></li>
-      </ul>
-    </div><!-- /.navbar-collapse -->
+    
 </head>
   <body>
-
-    <header>
-        <div class="container">
-            <a id="a-title" href="{{ '/' | relative_url }}">
-                <h1>{{ site.title | default: site.github.repository_name }}</h1>
-            </a>
-        </div>
-    </header>
-
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+              <ul class="nav navbar-nav navbar-right">
+                <li><a href="{{ site.baseurl }}/">Home</a></li>
+                <li><a href="{{ site.baseurl }}/about">About Me</a></li>
+              </ul>
+            </div><!-- /.navbar-collapse -->
+            <div class="container">
+              <a id="a-title" href="{{ '/' | relative_url }}">
+                  <h1>{{ site.title | default: site.github.repository_name }}</h1>
+              </a>
+          </div>
+        </header>
+      </div>
+    </div>  
     <div id="wcb" class="carbonbadge"></div>
     <script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
 
