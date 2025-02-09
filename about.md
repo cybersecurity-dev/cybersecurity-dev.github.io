@@ -7,12 +7,16 @@ My research focuses on malware detection through the application of reverse engi
 My areas of interest include:
 
 * C/C++ Programming,
-* Metaprogramming, Functional Programming
+* Metaprogramming, Functional Programming,
+* Reverse Engineering,
+* Malware Analysis
+* Vulnerability Research
 * Operating Systems,
-* Compilers,
-* Vulnerability Research,
+* Windows Internals
+* Linux Driver Development
+* Compiler Development
+* Exploit Development,
 * Network Traffic Analysis
-* Machine Learning
-* Deep Learning
+* Artificial Intelligence and Cybersecurity Research
 
 I leverage artificial intelligence to advance cybersecurity solutions.
