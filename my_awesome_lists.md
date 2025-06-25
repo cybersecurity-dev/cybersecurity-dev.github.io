@@ -27,3 +27,4 @@ title: About
 * [Awesome Static Windows Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-windows-malware-analysis-scientific-research)
 * [Awesome Vulnerability Research](https://github.com/cybersecurity-dev/awesome-vulnerability-research)
 * [Awesome Vulnerable Smart Contract Scientific Research](https://github.com/cybersecurity-dev/awesome-vulnerable-smart-contract-scientific-research)
+* [Awesome Windows Reverse Engineering](https://github.com/cybersecurity-dev/awesome-windows-reverse-engineering)
