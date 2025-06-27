@@ -9,14 +9,15 @@ My areas of interest include:
 * C/C++ Programming,
 * Metaprogramming, Functional Programming,
 * Reverse Engineering,
-* Malware Analysis
-* Vulnerability Research
+* Malware Analysis,
+* Vulnerability Research,
 * Operating Systems,
 * Windows Internals
 * Linux Driver Development
-* Compiler Development
+* Compiler Development,
 * Exploit Development,
 * Network Traffic Analysis
-* Artificial Intelligence and Cybersecurity Research
+* Malicious/Vulnerable Smart Contract 
+* Artificial Intelligence Driven Cybersecurity Research
 
 I leverage artificial intelligence to advance cybersecurity solutions.
