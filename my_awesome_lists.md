@@ -17,6 +17,7 @@ title: About
 * [Awesome Malware Traffic Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-malware-traffic-analysis-scientific-research)
 * [Awesome Metamorphic Malware](https://github.com/cybersecurity-dev/awesome-metamorphic-malware)
 * [Awesome Online Malware Analysis Tools](https://github.com/cybersecurity-dev/awesome-online-malware-analysis-tools)
+* [Awesome Open Source Intelligence (OSINT)](https://github.com/cybersecurity-dev/awesome-open-source-intelligence)
 * [Awesome PCAP Feature Extractor](https://github.com/cybersecurity-dev/awesome-pcap-feature-extractor)
 * [Awesome PE Feature Extractor](https://github.com/cybersecurity-dev/awesome-pe-feature-extractor)
 * [Awesome Polymorphic Malware](https://github.com/cybersecurity-dev/awesome-polymorphic-malware)
