@@ -7,6 +7,7 @@ title: About
 * [Awesome Advanced Persistent Threat](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat)
 * [Awesome Android Reverse Engineering](https://github.com/cybersecurity-dev/awesome-android-reverse-engineering)
 * [Awesome APK Feature Extractor](https://github.com/cybersecurity-dev/awesome-apk-feature-extractor)
+* [Awesome Benign Datasets](https://github.com/cybersecurity-dev/awesome-benign-datasets)
 * [Awesome ELF Feature Extractor](https://github.com/cybersecurity-dev/awesome-elf-feature-extractor)
 * [Awesome Fileless Malware](https://github.com/cybersecurity-dev/awesome-fileless-malware)
 * [Awesome Fileless Malware Scientific Research](https://github.com/cybersecurity-dev/awesome-fileless-malware-scientific-research)
