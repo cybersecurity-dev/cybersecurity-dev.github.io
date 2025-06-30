@@ -29,7 +29,7 @@ title: About
 #### ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 * [Awesome Static Linux Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-linux-malware-analysis-scientific-research)
 
-#### [↑](#malware) Windows
+#### ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 * [Awesome Static Windows Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-windows-malware-analysis-scientific-research)
 
 ## [↑](#my--lists) Reverse Engineering
@@ -42,7 +42,7 @@ title: About
 * [Awesome ELF Feature Extractor](https://github.com/cybersecurity-dev/awesome-elf-feature-extractor)
 * [Awesome Linux Reverse Engineering](https://github.com/cybersecurity-dev/awesome-linux-reverse-engineering/)
 
-#### [↑](#reverse-engineering) Windows
+#### ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 * [Awesome PE Feature Extractor](https://github.com/cybersecurity-dev/awesome-pe-feature-extractor)
 * [Awesome Windows Reverse Engineering](https://github.com/cybersecurity-dev/awesome-windows-reverse-engineering)
 
@@ -59,4 +59,4 @@ title: About
 
 #### ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-#### [↑](#vulnerability-research) Windows
+#### ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
