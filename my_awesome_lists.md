@@ -7,9 +7,8 @@ title: About
 
 * [Awesome Open Source Intelligence (OSINT)](https://github.com/cybersecurity-dev/awesome-open-source-intelligence)
 * [Awesome PCAP Feature Extractor](https://github.com/cybersecurity-dev/awesome-pcap-feature-extractor)
-* [Awesome Vulnerability Research](https://github.com/cybersecurity-dev/awesome-vulnerability-research)
 
-## Malware
+## [↑](#my--lists) Malware
 
 * [Awesome Advanced Persistent Threat](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat)
 * [Awesome Benign Datasets](https://github.com/cybersecurity-dev/awesome-benign-datasets)
@@ -24,31 +23,40 @@ title: About
 * [Awesome Polymorphic Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-polymorphic-malware-analysis-scientific-research)
 * [Awesome Rootkit Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-rootkit-malware-analysis-scientific-research)
 
-#### Android
+#### [↑](#malware) Android
 * [Awesome Static Android Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-android-malware-analysis-scientific-research)
 
-#### Linux
+#### [↑](#malware) Linux
 * [Awesome Static Linux Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-linux-malware-analysis-scientific-research)
 
-#### Windows
+#### [↑](#malware) Windows
 * [Awesome Static Windows Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-windows-malware-analysis-scientific-research)
 
-## Reverse Engineering
+## [↑](#my--lists) Reverse Engineering
 
-#### Android
+#### [↑](#reverse-engineering) Android
 * [Awesome Android Reverse Engineering](https://github.com/cybersecurity-dev/awesome-android-reverse-engineering)
 * [Awesome APK Feature Extractor](https://github.com/cybersecurity-dev/awesome-apk-feature-extractor)
 
-#### Linux
+#### [↑](#reverse-engineering) Linux
 * [Awesome ELF Feature Extractor](https://github.com/cybersecurity-dev/awesome-elf-feature-extractor)
 * [Awesome Linux Reverse Engineering](https://github.com/cybersecurity-dev/awesome-linux-reverse-engineering/)
 
-#### Windows
+#### [↑](#reverse-engineering) Windows
 * [Awesome PE Feature Extractor](https://github.com/cybersecurity-dev/awesome-pe-feature-extractor)
 * [Awesome Windows Reverse Engineering](https://github.com/cybersecurity-dev/awesome-windows-reverse-engineering)
 
-## Smart Contract
+## [↑](#my--lists) Smart Contract
 * [Awesome Malicious Smart Contract Scientific Research](https://github.com/cybersecurity-dev/awesome-malicious-smart-contract-scientific-research)
 * [Awesome Vulnerable Smart Contract Scientific Research](https://github.com/cybersecurity-dev/awesome-vulnerable-smart-contract-scientific-research)
 * [Awesome Smart Contract Datasets](https://github.com/cybersecurity-dev/awesome-smartcontract-datasets)
 * [Awesome Smart Contract Feature Extractor](https://github.com/cybersecurity-dev/awesome-smartcontract-feature-extractor)
+
+## [↑](#my--lists) Vulnerability Research
+* [Awesome Vulnerability Research](https://github.com/cybersecurity-dev/awesome-vulnerability-research)
+
+## [↑](#vulnerability-research) Android
+
+## [↑](#vulnerability-research) Linux
+
+## [↑](#vulnerability-research) Windows
