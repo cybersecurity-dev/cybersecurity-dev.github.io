@@ -23,7 +23,7 @@ title: About
 * [Awesome Polymorphic Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-polymorphic-malware-analysis-scientific-research)
 * [Awesome Rootkit Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-rootkit-malware-analysis-scientific-research)
 
-#### [↑](#malware) Android
+#### ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 * [Awesome Static Android Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-android-malware-analysis-scientific-research)
 
 #### ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -34,7 +34,7 @@ title: About
 
 ## [↑](#my--lists) Reverse Engineering
 
-#### [↑](#reverse-engineering) Android
+#### ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 * [Awesome Android Reverse Engineering](https://github.com/cybersecurity-dev/awesome-android-reverse-engineering)
 * [Awesome APK Feature Extractor](https://github.com/cybersecurity-dev/awesome-apk-feature-extractor)
 
@@ -55,7 +55,7 @@ title: About
 ## [↑](#my--lists) Vulnerability Research
 * [Awesome Vulnerability Research](https://github.com/cybersecurity-dev/awesome-vulnerability-research)
 
-#### [↑](#vulnerability-research) Android
+#### ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 #### ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
