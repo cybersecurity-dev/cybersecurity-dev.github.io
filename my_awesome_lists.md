@@ -55,8 +55,8 @@ title: About
 ## [↑](#my--lists) Vulnerability Research
 * [Awesome Vulnerability Research](https://github.com/cybersecurity-dev/awesome-vulnerability-research)
 
-## [↑](#vulnerability-research) Android
+#### [↑](#vulnerability-research) Android
 
-## [↑](#vulnerability-research) Linux
+#### [↑](#vulnerability-research) Linux
 
-## [↑](#vulnerability-research) Windows
+#### [↑](#vulnerability-research) Windows
