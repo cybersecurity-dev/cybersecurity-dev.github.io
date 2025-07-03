@@ -50,6 +50,7 @@ title: About
 
 ## [↑](#my--lists) Smart Contract
 * [Awesome Malicious Smart Contract Scientific Research](https://github.com/cybersecurity-dev/awesome-malicious-smart-contract-scientific-research)
+* [Awesome Vulnerable Smart Contract](https://github.com/cybersecurity-dev/awesome-vulnerable-smart-contract)
 * [Awesome Vulnerable Smart Contract Scientific Research](https://github.com/cybersecurity-dev/awesome-vulnerable-smart-contract-scientific-research)
 * [Awesome Smart Contract Datasets](https://github.com/cybersecurity-dev/awesome-smartcontract-datasets)
 * [Awesome Smart Contract Feature Extractor](https://github.com/cybersecurity-dev/awesome-smartcontract-feature-extractor)
