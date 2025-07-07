@@ -22,6 +22,7 @@ title: About
 * [Awesome Online Malware Analysis Tools](https://github.com/cybersecurity-dev/awesome-online-malware-analysis-tools)
 * [Awesome Polymorphic Malware](https://github.com/cybersecurity-dev/awesome-polymorphic-malware)
 * [Awesome Polymorphic Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-polymorphic-malware-analysis-scientific-research)
+* [Awesome Rootkit Malware](https://github.com/cybersecurity-dev/awesome-rootkit-malware)
 * [Awesome Rootkit Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-rootkit-malware-analysis-scientific-research)
 * [Awesome Time Series based Anomaly Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-time-series-anomaly-detection-scientific-research)
 * [Awesome Time Series based Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-time-series-malware-detection-scientific-research)
