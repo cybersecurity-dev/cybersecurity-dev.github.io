@@ -18,6 +18,7 @@ title: About
 * [Awesome Malware Traffic Analysis](https://github.com/cybersecurity-dev/awesome-malware-traffic-analysis)
 * [Awesome Malware Traffic Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-malware-traffic-analysis-scientific-research)
 * [Awesome Metamorphic Malware](https://github.com/cybersecurity-dev/awesome-metamorphic-malware)
+* [Awesome Metamorphic Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-metamorphic-malware-analysis-scientific-research)
 * [Awesome Online Malware Analysis Tools](https://github.com/cybersecurity-dev/awesome-online-malware-analysis-tools)
 * [Awesome Polymorphic Malware](https://github.com/cybersecurity-dev/awesome-polymorphic-malware)
 * [Awesome Polymorphic Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-polymorphic-malware-analysis-scientific-research)
