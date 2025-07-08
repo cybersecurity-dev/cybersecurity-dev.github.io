@@ -11,6 +11,7 @@ title: About
 ## [↑](#my--lists) Malware
 
 * [Awesome Advanced Persistent Threat](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat)
+* [Awesome Advanced Persistent Threat Scientific Research](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat-scientific-research)
 * [Awesome Benign Datasets](https://github.com/cybersecurity-dev/awesome-benign-datasets)
 * [Awesome Fileless Malware](https://github.com/cybersecurity-dev/awesome-fileless-malware)
 * [Awesome Fileless Malware Scientific Research](https://github.com/cybersecurity-dev/awesome-fileless-malware-scientific-research)
