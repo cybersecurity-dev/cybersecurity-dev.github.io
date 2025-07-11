@@ -13,7 +13,7 @@ My areas of interest include:
 * [Vulnerability Research](https://github.com/cybersecurity-dev?tab=repositories&q=vulnerability&type=&language=&sort=),
 * Operating Systems,
 * Windows Internals
-* Linux Driver Development
+* [Linux Driver Development](https://github.com/cybersecurity-dev?tab=repositories&q=linux-driver&type=&language=&sort=),
 * [Compiler Development](https://github.com/cybersecurity-dev?tab=repositories&q=compiler&type=&language=&sort=),
 * Exploit Development,
 * [Network Traffic Analysis](https://github.com/cybersecurity-dev?tab=repositories&q=network-traffic&type=&language=&sort=),
