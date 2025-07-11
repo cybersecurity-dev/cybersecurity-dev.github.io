@@ -9,12 +9,12 @@ My areas of interest include:
 * C/C++ Programming,
 * Metaprogramming, Functional Programming,
 * Reverse Engineering,
-* Malware Analysis,
-* Vulnerability Research,
+* [Malware Analysis](https://github.com/cybersecurity-dev?tab=repositories&q=Malware&type=&language=&sort=),
+* [Vulnerability Research](https://github.com/cybersecurity-dev?tab=repositories&q=vulnerability&type=&language=&sort=),
 * Operating Systems,
 * Windows Internals
 * Linux Driver Development
-* Compiler Development,
+* [Compiler Development](https://github.com/cybersecurity-dev?tab=repositories&q=compiler&type=&language=&sort=),
 * Exploit Development,
 * Network Traffic Analysis
 * Malicious/Vulnerable Smart Contract 
