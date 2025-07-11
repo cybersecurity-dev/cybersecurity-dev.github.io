@@ -8,7 +8,7 @@ My areas of interest include:
 
 * C/C++ Programming,
 * Metaprogramming, Functional Programming,
-* Reverse Engineering,
+* [Reverse Engineering](https://github.com/cybersecurity-dev?tab=repositories&q=reverse&type=&language=&sort=),
 * [Malware Analysis](https://github.com/cybersecurity-dev?tab=repositories&q=Malware&type=&language=&sort=),
 * [Vulnerability Research](https://github.com/cybersecurity-dev?tab=repositories&q=vulnerability&type=&language=&sort=),
 * Operating Systems,
@@ -16,8 +16,8 @@ My areas of interest include:
 * Linux Driver Development
 * [Compiler Development](https://github.com/cybersecurity-dev?tab=repositories&q=compiler&type=&language=&sort=),
 * Exploit Development,
-* Network Traffic Analysis
-* Malicious/Vulnerable Smart Contract 
+* [Network Traffic Analysis](https://github.com/cybersecurity-dev?tab=repositories&q=network-traffic&type=&language=&sort=),
+* [Malicious/Vulnerable Smart Contract](https://github.com/cybersecurity-dev?tab=repositories&q=smart-contract&type=&language=&sort=) 
 * Artificial Intelligence Driven Cybersecurity Research
 
 I leverage artificial intelligence to advance cybersecurity solutions.
