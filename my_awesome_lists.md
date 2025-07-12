@@ -8,6 +8,9 @@ title: About
 * [Awesome Open Source Intelligence (OSINT)](https://github.com/cybersecurity-dev/awesome-open-source-intelligence)
 * [Awesome PCAP Feature Extractor](https://github.com/cybersecurity-dev/awesome-pcap-feature-extractor)
 
+## [↑](#my--lists) Development
+* [Awesome Go Programming Language](https://github.com/cybersecurity-dev/awesome-go-programming-language)
+
 ## [↑](#my--lists) Malware
 
 * [Awesome Advanced Persistent Threat](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat)
