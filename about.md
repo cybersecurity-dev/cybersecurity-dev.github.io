@@ -8,7 +8,7 @@ My areas of interest include:
 
 * C/[C++](https://github.com/cybersecurity-dev?tab=repositories&q=&type=&language=c%2B%2B&sort=) Programming,
 * Template metaprogramming, Functional Programming,
-* Python, Go and [F#](https://github.com/cybersecurity-dev?tab=repositories&q=fsharp&type=&language=&sort=) Programming Language
+* [Python](https://github.com/cybersecurity-dev?tab=repositories&q=&type=&language=python&sort=), Go and [F#](https://github.com/cybersecurity-dev?tab=repositories&q=fsharp&type=&language=&sort=) Programming Language
 * [Reverse Engineering](https://github.com/cybersecurity-dev?tab=repositories&q=reverse&type=&language=&sort=),
 * [Malware Analysis](https://github.com/cybersecurity-dev?tab=repositories&q=Malware&type=&language=&sort=),
 * [Vulnerability Research](https://github.com/cybersecurity-dev?tab=repositories&q=vulnerability&type=&language=&sort=),
