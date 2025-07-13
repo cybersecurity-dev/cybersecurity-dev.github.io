@@ -9,7 +9,8 @@ title: About
 * [Awesome PCAP Feature Extractor](https://github.com/cybersecurity-dev/awesome-pcap-feature-extractor)
 
 ## [↑](#my--lists) Development
-* [Awesome Go Programming Language](https://github.com/cybersecurity-dev/awesome-go-programming-language)
+  * [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+    * [Awesome Go Programming Language](https://github.com/cybersecurity-dev/awesome-go-programming-language)
 
 ## [↑](#my--lists) Malware
 
@@ -31,28 +32,28 @@ title: About
 * [Awesome Time Series based Anomaly Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-time-series-anomaly-detection-scientific-research)
 * [Awesome Time Series based Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-time-series-malware-detection-scientific-research)
 
-  #### ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  #### [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
     * [Awesome Static Android Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-android-malware-analysis-scientific-research)
 
 
-  #### ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  #### [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
     * [Awesome Static Linux Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-linux-malware-analysis-scientific-research)
 
 
-  #### ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  #### [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
     * [Awesome Static Windows Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-windows-malware-analysis-scientific-research)
 
 ## [↑](#my--lists) Reverse Engineering
 
-#### ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+#### [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 * [Awesome Android Reverse Engineering](https://github.com/cybersecurity-dev/awesome-android-reverse-engineering)
 * [Awesome APK Feature Extractor](https://github.com/cybersecurity-dev/awesome-apk-feature-extractor)
 
-#### ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+#### [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 * [Awesome ELF Feature Extractor](https://github.com/cybersecurity-dev/awesome-elf-feature-extractor)
 * [Awesome Linux Reverse Engineering](https://github.com/cybersecurity-dev/awesome-linux-reverse-engineering/)
 
-#### ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+#### [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 * [Awesome PE Feature Extractor](https://github.com/cybersecurity-dev/awesome-pe-feature-extractor)
 * [Awesome Windows Reverse Engineering](https://github.com/cybersecurity-dev/awesome-windows-reverse-engineering)
 
@@ -67,11 +68,11 @@ title: About
 ## [↑](#my--lists) Vulnerability Research
 * [Awesome Vulnerability Research](https://github.com/cybersecurity-dev/awesome-vulnerability-research)
 
-  #### ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  #### [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
     * [Awesome Android Vulnerability Research](https://github.com/cybersecurity-dev/awesome-android-vulnerability-research)
 
-  #### ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  #### [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
     * [Awesome Linux Vulnerability Research](https://github.com/cybersecurity-dev/awesome-linux-vulnerability-research)
 
-  #### ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  #### [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
     * [Awesome Windows Vulnerability Research](https://github.com/cybersecurity-dev/awesome-windows-vulnerability-research)
