@@ -11,6 +11,8 @@ title: About
 ## [↑](#my--lists) Development
   * [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
     * [Awesome Go Programming Language](https://github.com/cybersecurity-dev/awesome-go-programming-language)
+  * [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
+    * [Awesome Rust Programming Language](https://github.com/cybersecurity-dev/awesome-rust-programming-language)
 
 ## [↑](#my--lists) Malware
 
