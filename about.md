@@ -6,7 +6,7 @@ title: About
 My research focuses on malware detection through the application of reverse engineering techniques across Windows, Linux, and Android platforms. 
 My areas of interest include:
 
-* C/[C++](https://github.com/cybersecurity-dev?tab=repositories&q=&type=&language=c%2B%2B&sort=) Programming,
+* [C](https://github.com/cybersecurity-dev?tab=repositories&q=cprogramming&type=&language=&sort=)/[C++](https://github.com/cybersecurity-dev?tab=repositories&q=&type=&language=c%2B%2B&sort=) Programming,
 * Template metaprogramming, Functional Programming,
 * Offensive Software Development with [Rust](https://github.com/cybersecurity-dev?tab=repositories&q=rust&type=&language=&sort=)
 * [Python](https://github.com/cybersecurity-dev?tab=repositories&q=&type=&language=python&sort=), [Go](https://github.com/cybersecurity-dev?tab=repositories&q=golang&type=&language=&sort=) and [F#](https://github.com/cybersecurity-dev?tab=repositories&q=fsharp&type=&language=&sort=) Programming Language
