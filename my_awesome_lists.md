@@ -13,6 +13,8 @@ title: About
     * [Awesome C Programming Language](https://github.com/cybersecurity-dev/awesome-c-programming-language)
   * [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
     * [Awesome C++ Programming Language](https://github.com/cybersecurity-dev/awesome-cpp-programming-language)
+  * [![F#](https://img.shields.io/badge/F%23-378BBA?logo=fsharp&logoColor=fff)](#)
+    * [Awesome F# Programming Language](https://github.com/cybersecurity-dev/awesome-fsharp-programming-language)
   * [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
     * [Awesome Go Programming Language](https://github.com/cybersecurity-dev/awesome-go-programming-language)
   * [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
