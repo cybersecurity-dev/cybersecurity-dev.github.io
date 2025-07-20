@@ -9,6 +9,7 @@ title: About
 * [Awesome PCAP Feature Extractor](https://github.com/cybersecurity-dev/awesome-pcap-feature-extractor)
 
 ## [↑](#my--lists) Development
+  * [Awesome Design Patterns](https://github.com/cybersecurity-dev/awesome-design-patterns)
   * [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
     * [Awesome C Programming Language](https://github.com/cybersecurity-dev/awesome-c-programming-language)
   * [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
