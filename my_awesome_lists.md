@@ -22,35 +22,38 @@ title: About
     * [Awesome Rust Programming Language](https://github.com/cybersecurity-dev/awesome-rust-programming-language)
 
 ## [↑](#my--lists) Malware
+ * [Awesome Benign Datasets](https://github.com/cybersecurity-dev/awesome-benign-datasets)
+ * [Awesome Malware Datasets](https://github.com/cybersecurity-dev/awesome-malware-datasets)
+ * [Awesome Malware & Reverse Engineering Certification](https://github.com/cybersecurity-dev/awesome-malware-reverse-engineering-certification)
+   ### Malware Types
+    * [Awesome Advanced Persistent Threat](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat)
+    * [Awesome Fileless Malware](https://github.com/cybersecurity-dev/awesome-fileless-malware)
+    * [Awesome Metamorphic Malware](https://github.com/cybersecurity-dev/awesome-metamorphic-malware)
+    * [Awesome Polymorphic Malware](https://github.com/cybersecurity-dev/awesome-polymorphic-malware)
+    * [Awesome Rootkit Malware](https://github.com/cybersecurity-dev/awesome-rootkit-malware)
 
-* [Awesome Advanced Persistent Threat](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat)
-* [Awesome Advanced Persistent Threat Scientific Research](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat-scientific-research)
-* [Awesome Benign Datasets](https://github.com/cybersecurity-dev/awesome-benign-datasets)
-* [Awesome Fileless Malware](https://github.com/cybersecurity-dev/awesome-fileless-malware)
-* [Awesome Fileless Malware Scientific Research](https://github.com/cybersecurity-dev/awesome-fileless-malware-scientific-research)
-* [Awesome Malware Datasets](https://github.com/cybersecurity-dev/awesome-malware-datasets)
-* [Awesome Malware Traffic Analysis](https://github.com/cybersecurity-dev/awesome-malware-traffic-analysis)
-* [Awesome Malware Traffic Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-malware-traffic-analysis-scientific-research)
-* [Awesome Metamorphic Malware](https://github.com/cybersecurity-dev/awesome-metamorphic-malware)
-* [Awesome Metamorphic Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-metamorphic-malware-analysis-scientific-research)
-* [Awesome Online Malware Analysis Tools](https://github.com/cybersecurity-dev/awesome-online-malware-analysis-tools)
-* [Awesome Polymorphic Malware](https://github.com/cybersecurity-dev/awesome-polymorphic-malware)
-* [Awesome Polymorphic Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-polymorphic-malware-analysis-scientific-research)
-* [Awesome Rootkit Malware](https://github.com/cybersecurity-dev/awesome-rootkit-malware)
-* [Awesome Rootkit Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-rootkit-malware-analysis-scientific-research)
-* [Awesome Time Series based Anomaly Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-time-series-anomaly-detection-scientific-research)
-* [Awesome Time Series based Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-time-series-malware-detection-scientific-research)
+   ### Malware Detection
+    * [Awesome Online Malware Analysis Tools](https://github.com/cybersecurity-dev/awesome-online-malware-analysis-tools)
 
-  #### [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
-    * [Awesome Static Android Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-android-malware-analysis-scientific-research)
+   ### Malware Scentific Research
+    * [Awesome Advanced Persistent Threat Scientific Research](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat-scientific-research)
+    * [Awesome Fileless Malware Scientific Research](https://github.com/cybersecurity-dev/awesome-fileless-malware-scientific-research)
+    * [Awesome Malware Traffic Analysis](https://github.com/cybersecurity-dev/awesome-malware-traffic-analysis)
+    * [Awesome Malware Traffic Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-malware-traffic-analysis-scientific-research)
+    * [Awesome Metamorphic Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-metamorphic-malware-analysis-scientific-research)
+    * [Awesome Polymorphic Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-polymorphic-malware-analysis-scientific-research)
+    * [Awesome Rootkit Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-rootkit-malware-analysis-scientific-research)
+    * [Awesome Time Series based Anomaly Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-time-series-anomaly-detection-scientific-research)
+    * [Awesome Time Series based Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-time-series-malware-detection-scientific-research)
 
+     #### [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+      * [Awesome Static Android Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-android-malware-analysis-scientific-research)
 
-  #### [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-    * [Awesome Static Linux Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-linux-malware-analysis-scientific-research)
+     #### [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+      * [Awesome Static Linux Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-linux-malware-analysis-scientific-research)
 
-
-  #### [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-    * [Awesome Static Windows Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-windows-malware-analysis-scientific-research)
+     #### [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+      * [Awesome Static Windows Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-windows-malware-analysis-scientific-research)
 
 ## [↑](#my--lists) Reverse Engineering
 
