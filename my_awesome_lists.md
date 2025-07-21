@@ -37,7 +37,7 @@ title: About
   * [Awesome Malware Traffic Analysis](https://github.com/cybersecurity-dev/awesome-malware-traffic-analysis)
   * [Awesome Online Malware Analysis Tools](https://github.com/cybersecurity-dev/awesome-online-malware-analysis-tools)
 
-### Malware Scentific Research
+### Malware Scientific Research
   * [Awesome Advanced Persistent Threat Scientific Research](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat-scientific-research)
   * [Awesome Fileless Malware Scientific Research](https://github.com/cybersecurity-dev/awesome-fileless-malware-scientific-research)
   * [Awesome Malware Traffic Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-malware-traffic-analysis-scientific-research)
