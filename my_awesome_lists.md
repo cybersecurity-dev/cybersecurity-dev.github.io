@@ -13,6 +13,7 @@ title: About
  * [Awesome Assembly Programming Language](https://github.com/cybersecurity-dev/awesome-assembly-programming-language)
  * [Awesome Bash Scripting Language](https://github.com/cybersecurity-dev/awesome-bash-scripting-language)
  * [Awesome Design Patterns](https://github.com/cybersecurity-dev/awesome-design-patterns)
+ * [Awesome Powershell Scripting Language](https://github.com/cybersecurity-dev/awesome-powershell-scripting-language)
  * [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
    * [Awesome C Programming Language](https://github.com/cybersecurity-dev/awesome-c-programming-language)
  * [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
