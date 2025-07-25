@@ -10,9 +10,9 @@ title: About
  * [Awesome Threat Modeling](https://github.com/cybersecurity-dev/awesome-threat-modeling)
 
 ## [↑](#my--lists) Development
+ * [Awesome Assembly Programming Language](https://github.com/cybersecurity-dev/awesome-assembly-programming-language)
+ * [Awesome Bash Scripting Language](https://github.com/cybersecurity-dev/awesome-bash-scripting-language)
  * [Awesome Design Patterns](https://github.com/cybersecurity-dev/awesome-design-patterns)
- * [![Assembly](https://img.shields.io/badge/assembly-%2300599C.svg?logo=assembly&logoColor=white)](#)
-   * [Awesome Assembly Programming Language](https://github.com/cybersecurity-dev/awesome-assembly-programming-language) 
  * [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
    * [Awesome C Programming Language](https://github.com/cybersecurity-dev/awesome-c-programming-language)
  * [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
