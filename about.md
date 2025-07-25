@@ -11,7 +11,7 @@ My areas of interest include:
 * Template metaprogramming, Functional Programming,
 * Offensive Software Development with [Rust](https://github.com/cybersecurity-dev?tab=repositories&q=rust&type=&language=&sort=name)
 * [Python](https://github.com/cybersecurity-dev?tab=repositories&q=&type=&language=python&sort=name), [Go](https://github.com/cybersecurity-dev?tab=repositories&q=golang&type=&language=&sort=name) and [F#](https://github.com/cybersecurity-dev?tab=repositories&q=fsharp&type=&language=&sort=name) Programming Language
-* [Bash](https://github.com/cybersecurity-dev?tab=repositories&q=&type=&language=shell&sort=name) and [PowerShell](https://github.com/cybersecurity-dev?tab=repositories&q=&type=&language=powershell&sort=name) [Scripting Language](https://github.com/cybersecurity-dev?tab=repositories&q=scripting-language&type=&language=&sort=name)
+* [Bash](https://github.com/cybersecurity-dev?tab=repositories&q=&type=&language=shell&sort=name) and [PowerShell](https://github.com/cybersecurity-dev?tab=repositories&q=powershell&type=&language=&sort=name) [Scripting Language](https://github.com/cybersecurity-dev?tab=repositories&q=scripting-language&type=&language=&sort=name)
 * [Reverse Engineering](https://github.com/cybersecurity-dev?tab=repositories&q=reverse&type=&language=&sort=name),
 * [Malware Analysis](https://github.com/cybersecurity-dev?tab=repositories&q=Malware&type=&language=&sort=name),
 * [Vulnerability Research](https://github.com/cybersecurity-dev?tab=repositories&q=vulnerability&type=&language=&sort=name),
