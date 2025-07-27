@@ -22,7 +22,7 @@ My areas of interest include:
 * Exploit Development,
 * [Network Traffic Analysis](https://github.com/cybersecurity-dev?tab=repositories&q=network-traffic&type=&language=&sort=name),
 * [Malicious/Vulnerable Smart Contract](https://github.com/cybersecurity-dev?tab=repositories&q=smart-contract&type=&language=&sort=name) 
-* Artificial Intelligence Driven Cybersecurity Research
+* [AI](https://github.com/cybersecurity-dev?tab=repositories&q=ai&type=&language=&sort=name) Driven Cybersecurity Research
 * [Smart Contracts](https://github.com/cybersecurity-dev?tab=repositories&q=smart-contracts&type=&language=&sort=name)
 
 I leverage artificial intelligence to advance cybersecurity solutions.
