@@ -6,6 +6,7 @@ title: About
  * [Awesome Building and Implementing AI-Driven Solution](https://github.com/cybersecurity-dev/awesome-building-implementing-ai-driven-solution)
  * [Awesome Code Hardening](https://github.com/cybersecurity-dev/awesome-code-hardening)
  * [Awesome Compiler Principles Techniques Tools](https://github.com/cybersecurity-dev/awesome-compiler-principles-techniques-tools)
+ * [Awesome Exploit Development](https://github.com/cybersecurity-dev/awesome-exploit-development)
  * [Awesome Fuzzing](https://github.com/cybersecurity-dev/awesome-fuzzing)
  * [Awesome Open Source Intelligence (OSINT)](https://github.com/cybersecurity-dev/awesome-open-source-intelligence)
  * [Awesome PCAP Feature Extractor](https://github.com/cybersecurity-dev/awesome-pcap-feature-extractor)
