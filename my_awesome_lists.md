@@ -59,15 +59,14 @@ title: About
   * [Awesome Rootkit Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-rootkit-malware-analysis-scientific-research)
   * [Awesome Time Series based Anomaly Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-time-series-anomaly-detection-scientific-research)
   * [Awesome Time Series based Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-time-series-malware-detection-scientific-research)
+  * [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+    * [Awesome Static Android Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-android-malware-analysis-scientific-research)
 
-#### [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
-  * [Awesome Static Android Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-android-malware-analysis-scientific-research)
+  * [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+    * [Awesome Static Linux Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-linux-malware-analysis-scientific-research)
 
-#### [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-  * [Awesome Static Linux Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-linux-malware-analysis-scientific-research)
-
-#### [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-  * [Awesome Static Windows Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-windows-malware-analysis-scientific-research)
+  * [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+    * [Awesome Static Windows Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-windows-malware-analysis-scientific-research)
 
 ## [↑](#my--lists) Reverse Engineering
   * [Awesome Reverse Engineering](https://github.com/cybersecurity-dev/awesome-reverse-engineering)
