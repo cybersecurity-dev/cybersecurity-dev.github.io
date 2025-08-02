@@ -70,18 +70,16 @@ title: About
   * [Awesome Static Windows Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-windows-malware-analysis-scientific-research)
 
 ## [↑](#my--lists) Reverse Engineering
-
-#### [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
- * [Awesome Android Reverse Engineering](https://github.com/cybersecurity-dev/awesome-android-reverse-engineering)
- * [Awesome APK Feature Extractor](https://github.com/cybersecurity-dev/awesome-apk-feature-extractor)
-
-#### [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
- * [Awesome ELF Feature Extractor](https://github.com/cybersecurity-dev/awesome-elf-feature-extractor)
- * [Awesome Linux Reverse Engineering](https://github.com/cybersecurity-dev/awesome-linux-reverse-engineering/)
-
-#### [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
- * [Awesome PE Feature Extractor](https://github.com/cybersecurity-dev/awesome-pe-feature-extractor)
- * [Awesome Windows Reverse Engineering](https://github.com/cybersecurity-dev/awesome-windows-reverse-engineering)
+  * [Awesome Reverse Engineering](https://github.com/cybersecurity-dev/awesome-reverse-engineering)
+  * [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+   * [Awesome Android Reverse Engineering](https://github.com/cybersecurity-dev/awesome-android-reverse-engineering)
+   * [Awesome APK Feature Extractor](https://github.com/cybersecurity-dev/awesome-apk-feature-extractor)
+  * [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+   * [Awesome ELF Feature Extractor](https://github.com/cybersecurity-dev/awesome-elf-feature-extractor)
+   * [Awesome Linux Reverse Engineering](https://github.com/cybersecurity-dev/awesome-linux-reverse-engineering/)
+  * [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+   * [Awesome PE Feature Extractor](https://github.com/cybersecurity-dev/awesome-pe-feature-extractor)
+   * [Awesome Windows Reverse Engineering](https://github.com/cybersecurity-dev/awesome-windows-reverse-engineering)
 
 ## [↑](#my--lists) Smart Contract
  * [Awesome Malicious Smart Contract](https://github.com/cybersecurity-dev/awesome-malicious-smart-contract)
