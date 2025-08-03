@@ -14,8 +14,6 @@ title: About
  * [Awesome Threat Modeling](https://github.com/cybersecurity-dev/awesome-threat-modeling)
  * [Awesome YARA](https://github.com/cybersecurity-dev/awesome-yara)
 
----
-
 ## [↑](#my--lists) Development
  * [Awesome Assembly Programming Language](https://github.com/cybersecurity-dev/awesome-assembly-programming-language)
  * [Awesome Bash Scripting Language](https://github.com/cybersecurity-dev/awesome-bash-scripting-language)
