@@ -15,6 +15,7 @@ title: About
  * [Awesome YARA](https://github.com/cybersecurity-dev/awesome-yara)
 
 ## [↑](#my--lists) Development
+---
  * [Awesome Assembly Programming Language](https://github.com/cybersecurity-dev/awesome-assembly-programming-language)
  * [Awesome Bash Scripting Language](https://github.com/cybersecurity-dev/awesome-bash-scripting-language)
  * [Awesome Design Patterns](https://github.com/cybersecurity-dev/awesome-design-patterns)
@@ -35,6 +36,7 @@ title: About
    * [Awesome Rust Programming Language](https://github.com/cybersecurity-dev/awesome-rust-programming-language)
 
 ## [↑](#my--lists) Malware
+---
  * [Awesome Benign Datasets](https://github.com/cybersecurity-dev/awesome-benign-datasets)
  * [Awesome Malware Datasets](https://github.com/cybersecurity-dev/awesome-malware-datasets)
  * [Awesome Malware & Reverse Engineering Certification](https://github.com/cybersecurity-dev/awesome-malware-reverse-engineering-certification)
@@ -69,6 +71,7 @@ title: About
     * [Awesome Static Windows Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-windows-malware-analysis-scientific-research)
 
 ## [↑](#my--lists) Reverse Engineering
+---
   * [Awesome Reverse Engineering](https://github.com/cybersecurity-dev/awesome-reverse-engineering)
   * [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
     * [Awesome Android Reverse Engineering](https://github.com/cybersecurity-dev/awesome-android-reverse-engineering)
@@ -83,6 +86,7 @@ title: About
     * [Awesome Windows Reverse Engineering](https://github.com/cybersecurity-dev/awesome-windows-reverse-engineering)
 
 ## [↑](#my--lists) Vulnerability Research
+---
   * [Awesome Vulnerability Research](https://github.com/cybersecurity-dev/awesome-vulnerability-research)
   * [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
     * [Awesome Android Vulnerability Research](https://github.com/cybersecurity-dev/awesome-android-vulnerability-research)
@@ -94,6 +98,7 @@ title: About
     * [Awesome Windows Vulnerability Research](https://github.com/cybersecurity-dev/awesome-windows-vulnerability-research)
 
 ## [↑](#my--lists) Smart Contract
+---
  * [Awesome Malicious Smart Contract](https://github.com/cybersecurity-dev/awesome-malicious-smart-contract)
  * [Awesome Malicious Smart Contract Scientific Research](https://github.com/cybersecurity-dev/awesome-malicious-smart-contract-scientific-research)
  * [Awesome Vulnerable Smart Contract](https://github.com/cybersecurity-dev/awesome-vulnerable-smart-contract)
