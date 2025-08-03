@@ -2,6 +2,8 @@
 
 **Sharing our expertise and knowledge acquired through the cybersecurity projects**
 
+---
+
 # Projects:
 
 ## PE Static Feature Extractor Toolkit
@@ -14,6 +16,8 @@ PE Static Toolkit | Portable Executable (PE) Analysing Toolkit
 
 ### [Project Link](https://github.com/cybersecurity-dev/PE-Static-Toolkit)
 
+---
+
 ## ELF Static Feature Extractor Toolkit
 
 ELF Static Toolkit | Executable and Linkable Format (ELF) Analysing Toolkit
@@ -22,6 +26,7 @@ ELF Static Toolkit | Executable and Linkable Format (ELF) Analysing Toolkit
 
 ### [Project Link](https://github.com/cybersecurity-dev/ELF-Static-Toolkit)
 
+---
 
 ## PCAP Feature Extractor Toolkit
 
@@ -32,6 +37,7 @@ PCAP Toolkit | Packet Capture Format (PCAP) Analysing Toolkit
 
 ### [Project Link](https://github.com/cybersecurity-dev/PCAP-Toolkit)
 
+---
 
 ## NetFlow Feature Extractor Toolkit
 
@@ -42,7 +48,7 @@ NetFlow Toolkit | Network Flow Format (NetFlow) Analysing Toolkit
 
 ### [Project Link](https://github.com/cybersecurity-dev/NetFlow-Toolkit)
 
-
+---
 
 ## Docker Toolkit
 
