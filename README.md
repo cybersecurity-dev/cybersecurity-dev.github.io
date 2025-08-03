@@ -2,8 +2,6 @@
 
 **Sharing our expertise and knowledge acquired through the cybersecurity projects**
 
----
-
 # Projects:
 
 ## PE Static Feature Extractor Toolkit
