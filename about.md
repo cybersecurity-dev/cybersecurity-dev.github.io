@@ -26,3 +26,5 @@ My areas of interest include:
 * [Smart Contracts](https://github.com/cybersecurity-dev?tab=repositories&q=smart-contracts&type=&language=&sort=name)
 
 I leverage artificial intelligence to advance cybersecurity solutions.
+
+---
