@@ -6,7 +6,7 @@ title: About
  * [Awesome Building and Implementing AI-Driven Solution](https://github.com/cybersecurity-dev/awesome-building-implementing-ai-driven-solution)
  * [Awesome Code Hardening](https://github.com/cybersecurity-dev/awesome-code-hardening)
  * [Awesome Compiler Principles Techniques Tools](https://github.com/cybersecurity-dev/awesome-compiler-principles-techniques-tools)
- * [Awesome Linux Driver Development](https://github.com/cybersecurity-dev/awesome-linux-driver-development)
+ * [Awesome Design Patterns](https://github.com/cybersecurity-dev/awesome-design-patterns)
  * [Awesome Exploit Development](https://github.com/cybersecurity-dev/awesome-exploit-development)
  * [Awesome Fuzzing](https://github.com/cybersecurity-dev/awesome-fuzzing)
  * [Awesome Open Source Intelligence (OSINT)](https://github.com/cybersecurity-dev/awesome-open-source-intelligence)
@@ -17,7 +17,6 @@ title: About
 ## [↑](#my--lists) Programming Language
  * [Awesome Assembly Programming Language](https://github.com/cybersecurity-dev/awesome-assembly-programming-language)
  * [Awesome Bash Scripting Language](https://github.com/cybersecurity-dev/awesome-bash-scripting-language)
- * [Awesome Design Patterns](https://github.com/cybersecurity-dev/awesome-design-patterns)
  * [Awesome Powershell Scripting Language](https://github.com/cybersecurity-dev/awesome-powershell-scripting-language)
  * [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
    * [Awesome C Programming Language](https://github.com/cybersecurity-dev/awesome-c-programming-language)
