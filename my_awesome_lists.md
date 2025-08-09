@@ -9,6 +9,7 @@ title: About
  * [Awesome Design Patterns](https://github.com/cybersecurity-dev/awesome-design-patterns)
  * [Awesome Exploit Development](https://github.com/cybersecurity-dev/awesome-exploit-development)
  * [Awesome Fuzzing](https://github.com/cybersecurity-dev/awesome-fuzzing)
+ * [Awesome GPU Programming](https://github.com/cybersecurity-dev/awesome-gpu-programming)
  * [Awesome Open Source Intelligence (OSINT)](https://github.com/cybersecurity-dev/awesome-open-source-intelligence)
  * [Awesome PCAP Feature Extractor](https://github.com/cybersecurity-dev/awesome-pcap-feature-extractor)
  * [Awesome Threat Modeling](https://github.com/cybersecurity-dev/awesome-threat-modeling)
