@@ -4,14 +4,13 @@ title: About
 ---
 # My [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) Lists:
  * [Awesome Building and Implementing AI-Driven Solution](https://github.com/cybersecurity-dev/awesome-building-implementing-ai-driven-solution)
- * [Awesome Code Hardening](https://github.com/cybersecurity-dev/awesome-code-hardening)
  * [Awesome Compiler Principles Techniques Tools](https://github.com/cybersecurity-dev/awesome-compiler-principles-techniques-tools)
  * [Awesome Design Patterns](https://github.com/cybersecurity-dev/awesome-design-patterns)
- * [Awesome Exploit Development](https://github.com/cybersecurity-dev/awesome-exploit-development)
  * [Awesome Fuzzing](https://github.com/cybersecurity-dev/awesome-fuzzing)
  * [Awesome GPU Programming](https://github.com/cybersecurity-dev/awesome-gpu-programming)
  * [Awesome Open Source Intelligence (OSINT)](https://github.com/cybersecurity-dev/awesome-open-source-intelligence)
  * [Awesome PCAP Feature Extractor](https://github.com/cybersecurity-dev/awesome-pcap-feature-extractor)
+ * [Awesome Red Teaming](https://github.com/cybersecurity-dev/awesome-red-teaming)
  * [Awesome Threat Modeling](https://github.com/cybersecurity-dev/awesome-threat-modeling)
  * [Awesome YARA](https://github.com/cybersecurity-dev/awesome-yara)
 
@@ -80,6 +79,10 @@ title: About
 
   * [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
     * [Awesome Static Windows Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-windows-malware-analysis-scientific-research)
+
+### Offensive Development
+ * [Awesome Code Hardening](https://github.com/cybersecurity-dev/awesome-code-hardening)
+ * [Awesome Exploit Development](https://github.com/cybersecurity-dev/awesome-exploit-development)
 
 ---
 
