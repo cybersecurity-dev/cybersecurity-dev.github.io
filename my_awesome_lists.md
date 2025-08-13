@@ -3,6 +3,7 @@ layout: default
 title: About
 ---
 # My [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) Lists:
+ * [Awesome Active Code Hardening](https://github.com/cybersecurity-dev/awesome-active-code-hardening)
  * [Awesome Blue Teaming](https://github.com/cybersecurity-dev/awesome-blue-teaming)
  * [Awesome Building and Implementing AI-Driven Solution](https://github.com/cybersecurity-dev/awesome-building-implementing-ai-driven-solution)
  * [Awesome Compiler Principles Techniques Tools](https://github.com/cybersecurity-dev/awesome-compiler-principles-techniques-tools)
