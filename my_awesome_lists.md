@@ -10,6 +10,7 @@ title: About
  * [Awesome Fuzzing](https://github.com/cybersecurity-dev/awesome-fuzzing)
  * [Awesome GPU Programming](https://github.com/cybersecurity-dev/awesome-gpu-programming)
  * [Awesome Open Source Intelligence (OSINT)](https://github.com/cybersecurity-dev/awesome-open-source-intelligence)
+ * [Awesome Passive Code Hardening](https://github.com/cybersecurity-dev/awesome-passive-code-hardening)
  * [Awesome PCAP Feature Extractor](https://github.com/cybersecurity-dev/awesome-pcap-feature-extractor)
  * [Awesome Red Teaming](https://github.com/cybersecurity-dev/awesome-red-teaming)
  * [Awesome Threat Modeling](https://github.com/cybersecurity-dev/awesome-threat-modeling)
