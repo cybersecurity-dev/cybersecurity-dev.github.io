@@ -5,6 +5,10 @@ title: About
 
 # My Development Toolkits:
 
+## Scripting Language Toolkit
+* [Bash Toolkit](https://github.com/cybersecurity-dev/Bash-Toolkit)
+* [PowerShell Toolkit](https://github.com/cybersecurity-dev/PowerShell-Toolkit)
+
 ## OS Toolkit
 * [FreeBSD Toolkit](https://github.com/cybersecurity-dev/FreeBSD-Toolkit)
 
