@@ -11,4 +11,8 @@ author: PhD Researcher
 
 header_pages:
   - index.html
+  - my_awesome_lists.md
+  - computer_science.md
+  - cybersecurity.md
+  - development_toolkit.md
   - aboutme.md
