@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Awesome Lists
 ---
 # My [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) Lists:
  * [Awesome Active Code Hardening](https://github.com/cybersecurity-dev/awesome-active-code-hardening)
