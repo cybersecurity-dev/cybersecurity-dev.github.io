@@ -8,7 +8,7 @@
 
 ### Description:
 
-<img src="image-1.png" alt="PE File Format" width="650">
+<img src="./.assets/image-1.png" alt="PE File Format" width="650">
 
 PE Static Toolkit | Portable Executable (PE) Analysing Toolkit
 
@@ -20,7 +20,7 @@ PE Static Toolkit | Portable Executable (PE) Analysing Toolkit
 
 ELF Static Toolkit | Executable and Linkable Format (ELF) Analysing Toolkit
 
-<img src="image-2.png" alt="ELF File Format" width="650">
+<img src="./.assets/image-2.png" alt="ELF File Format" width="650">
 
 ### [Project Link](https://github.com/cybersecurity-dev/ELF-Static-Toolkit)
 
@@ -31,7 +31,7 @@ ELF Static Toolkit | Executable and Linkable Format (ELF) Analysing Toolkit
 PCAP Toolkit | Packet Capture Format (PCAP) Analysing Toolkit
 
 
-<img src="image-3.png" alt="PCAP File Format" width="650">
+<img src="./.assets/image-3.png" alt="PCAP File Format" width="650">
 
 ### [Project Link](https://github.com/cybersecurity-dev/PCAP-Toolkit)
 
@@ -42,7 +42,7 @@ PCAP Toolkit | Packet Capture Format (PCAP) Analysing Toolkit
 NetFlow Toolkit | Network Flow Format (NetFlow) Analysing Toolkit
 
 
-<img src="image-4.png" alt="NetFlow File Format" width="650">
+<img src="./.assets/image-4.png" alt="NetFlow File Format" width="650">
 
 ### [Project Link](https://github.com/cybersecurity-dev/NetFlow-Toolkit)
 
@@ -52,7 +52,7 @@ NetFlow Toolkit | Network Flow Format (NetFlow) Analysing Toolkit
 
 Docker is a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers.
 
-<img src="image-5.png" alt="Docker Architecture" width="650">
+<img src="./.assets/image-5.png" alt="Docker Architecture" width="650">
 
 ### [Project Link](https://github.com/cybersecurity-dev/Docker-Toolkit)
 
