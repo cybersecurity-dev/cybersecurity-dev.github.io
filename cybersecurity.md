@@ -6,6 +6,7 @@ title: Cybersecurity
 # [Cyber](https://simple.wikipedia.org/wiki/Cybersecurity)[Security](https://en.wikipedia.org/wiki/List_of_cybersecurity_information_technologies)
 
 * [PCAP Feature Extractor Toolkit](https://github.com/cybersecurity-dev/PCAP-Toolkit)
+* [Sandbox Detector](https://github.com/cybersecurity-dev/sandbox-detector)
 * [Static Binary Feature Extractor](https://github.com/cybersecurity-dev/SBFE)
 
 ---
@@ -22,6 +23,11 @@ title: Cybersecurity
 
 ## [Windows](https://en.wikipedia.org/wiki/Microsoft_Windows_version_history) ([PE](https://en.wikipedia.org/wiki/Portable_Executable)) Feature Extractor
 * [PE Static Toolkit](https://github.com/cybersecurity-dev/PE-Static-Toolkit)
+
+---
+
+## [Smart Contract](https://en.wikipedia.org/wiki/Smart_contract) Feature Extractor
+* [Smart Contract Toolkit](https://github.com/cybersecurity-dev/SmartContract-Toolkit)
 
 ---
 
