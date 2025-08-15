@@ -7,8 +7,16 @@ title: Cybersecurity Scientific Research
 
 ## Malware Detection
 
+---
+
 ## Vulnerability Detection
+
+---
 
 ## Smart Contract
 
+---
+
 ## Network Anomaly Detection
+
+---
