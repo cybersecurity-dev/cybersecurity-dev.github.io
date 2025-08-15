@@ -17,3 +17,14 @@ title: Computer Science
 * [Data Structures in F#](https://github.com/cybersecurity-dev/data-structures-in-fsharp)
 
 ---
+
+## Android Low Level Programming
+* [Event Tracing for Android](https://github.com/cybersecurity-dev/AET)
+
+## Linux Low Level Programming
+* [Event Tracing for Linux](https://github.com/cybersecurity-dev/LET)
+
+## Windows Low Level Programming
+* [Event Tracing for Windows](https://github.com/cybersecurity-dev/WET)
+
+---
