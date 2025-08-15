@@ -24,3 +24,16 @@ title: Cybersecurity
 * [PE Static Toolkit](https://github.com/cybersecurity-dev/PE-Static-Toolkit)
 
 ---
+
+## Malware
+* [ACSS: Advanced Cyber Security Shield](https://github.com/cybersecurity-dev/Advanced-Cyber-Security-Shield)
+* [Metamorphic Malware Cookbook](https://github.com/cybersecurity-dev/Metamorphic-Malware-Cookbook)
+* [Polymorphic Malware Cookbook](https://github.com/cybersecurity-dev/Polymorphic-Malware-Cookbook)
+
+---
+
+## Vulnerability
+* [reVulnShield](https://github.com/cybersecurity-dev/reVulnShield)
+* [smartVulnShield](https://github.com/cybersecurity-dev/smartVulnShield)
+
+---
