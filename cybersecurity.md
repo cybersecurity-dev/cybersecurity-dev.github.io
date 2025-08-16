@@ -6,7 +6,6 @@ title: Cybersecurity
 # [Cyber](https://simple.wikipedia.org/wiki/Cybersecurity)[Security](https://en.wikipedia.org/wiki/List_of_cybersecurity_information_technologies)
 
 * [PCAP Feature Extractor Toolkit](https://github.com/cybersecurity-dev/PCAP-Toolkit)
-* [Sandbox Detector](https://github.com/cybersecurity-dev/sandbox-detector)
 * [Static Binary Feature Extractor](https://github.com/cybersecurity-dev/SBFE)
 
 ---
