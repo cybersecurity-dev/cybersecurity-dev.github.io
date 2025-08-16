@@ -18,6 +18,7 @@ title: Development Toolkit
 
 ## [Programming Language](https://en.wikipedia.org/wiki/Programming_language) [Toolkit](https://en.wikipedia.org/wiki/Toolchain)
 * [Assembly Development Toolkit](https://github.com/cybersecurity-dev/Assembly-Toolkit)
+* [C Development Toolkit](https://github.com/cybersecurity-dev/C-Toolkit)
 * [C# Development Toolkit](https://github.com/cybersecurity-dev/csharp-toolkit)
 * [F# Development Toolkit](https://github.com/cybersecurity-dev/fsharp-toolkit)
 * [Go Development Toolkit](https://github.com/cybersecurity-dev/golang-toolkit)
