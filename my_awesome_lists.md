@@ -3,25 +3,22 @@ layout: default
 title: Awesome Lists
 ---
 # My [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) Lists:
- * [Awesome Active Code Hardening](https://github.com/cybersecurity-dev/awesome-active-code-hardening)
  * [Awesome Blue Teaming](https://github.com/cybersecurity-dev/awesome-blue-teaming)
  * [Awesome Building and Implementing AI-Driven Solution](https://github.com/cybersecurity-dev/awesome-building-implementing-ai-driven-solution)
- * [Awesome Code Hardening](https://github.com/cybersecurity-dev/awesome-code-hardening)
  * [Awesome Compiler Principles Techniques Tools](https://github.com/cybersecurity-dev/awesome-compiler-principles-techniques-tools)
  * [Awesome Design Patterns](https://github.com/cybersecurity-dev/awesome-design-patterns)
  * [Awesome Fuzzing](https://github.com/cybersecurity-dev/awesome-fuzzing)
  * [Awesome GPU Programming](https://github.com/cybersecurity-dev/awesome-gpu-programming)
  * [Awesome Open Source Intelligence (OSINT)](https://github.com/cybersecurity-dev/awesome-open-source-intelligence)
- * [Awesome Passive Code Hardening](https://github.com/cybersecurity-dev/awesome-passive-code-hardening)
  * [Awesome PCAP Feature Extractor](https://github.com/cybersecurity-dev/awesome-pcap-feature-extractor)
  * [Awesome Red Teaming](https://github.com/cybersecurity-dev/awesome-red-teaming)
  * [Awesome Threat Modeling](https://github.com/cybersecurity-dev/awesome-threat-modeling)
  * [Awesome YARA](https://github.com/cybersecurity-dev/awesome-yara)
 
+---
+
 ## [↑](#my--lists) Programming Language
  * [Awesome Assembly Programming Language](https://github.com/cybersecurity-dev/awesome-assembly-programming-language)
- * [Awesome Bash Scripting Language](https://github.com/cybersecurity-dev/awesome-bash-scripting-language)
- * [Awesome Powershell Scripting Language](https://github.com/cybersecurity-dev/awesome-powershell-scripting-language)
  * [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
    * [Awesome C Programming Language](https://github.com/cybersecurity-dev/awesome-c-programming-language)
  * [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
@@ -37,6 +34,11 @@ title: Awesome Lists
  * [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](https://en.wikipedia.org/wiki/Rust_(programming_language))
    * [Awesome Rust Programming Language](https://github.com/cybersecurity-dev/awesome-rust-programming-language)
 
+---
+
+## [↑](#my--lists) Scripting Language
+ * [Awesome Bash Scripting Language](https://github.com/cybersecurity-dev/awesome-bash-scripting-language)
+ * [Awesome Powershell Scripting Language](https://github.com/cybersecurity-dev/awesome-powershell-scripting-language)
 ---
 
 ## [↑](#my--lists) Low-Level Programming
@@ -85,8 +87,10 @@ title: Awesome Lists
     * [Awesome Static Windows Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-windows-malware-analysis-scientific-research)
 
 ### Offensive Development
+ * [Awesome Active Code Hardening](https://github.com/cybersecurity-dev/awesome-active-code-hardening)
  * [Awesome Code Hardening](https://github.com/cybersecurity-dev/awesome-code-hardening)
  * [Awesome Exploit Development](https://github.com/cybersecurity-dev/awesome-exploit-development)
+ * [Awesome Passive Code Hardening](https://github.com/cybersecurity-dev/awesome-passive-code-hardening)
 
 ---
 
