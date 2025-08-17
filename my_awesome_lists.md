@@ -39,6 +39,7 @@ title: Awesome Lists
 ## [↑](#my--lists) Scripting Language
  * [Awesome Bash Scripting Language](https://github.com/cybersecurity-dev/awesome-bash-scripting-language)
  * [Awesome Powershell Scripting Language](https://github.com/cybersecurity-dev/awesome-powershell-scripting-language)
+
 ---
 
 ## [↑](#my--lists) Low-Level Programming
