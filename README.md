@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="20%" src="./assets/ctdl.jpeg" alt="PE File Format" width="650">
+  <img src="./assets/ctdl-logo.png" alt="Cyber Threat Defence Lab">
 </p>
 
 # Cybersecurity Information Sharing Platform

@@ -4,7 +4,7 @@ title: Cybersecurity
 ---
 
 <p align="center">
-  <img width="20%" src="./assets/ctdl2.jpg" alt="PE File Format" width="650">
+  <img src="./assets/ctdl2-logo.png"  alt="Cyber Threat Defence Lab">
 </p>
 
 
