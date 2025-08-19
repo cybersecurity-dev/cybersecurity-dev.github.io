@@ -34,5 +34,7 @@ title: Development Toolkit
 ---
 
 ## [Database](https://en.wikipedia.org/wiki/Database) [Toolkit](https://en.wikipedia.org/wiki/Toolchain)
+* [Awesome PostgreSQL](https://github.com/cybersecurity-dev/awesome-postgresql)
+* [Awesome Redis](https://github.com/cybersecurity-dev/awesome-redis)
 
 ---
