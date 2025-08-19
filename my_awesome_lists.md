@@ -2,6 +2,11 @@
 layout: default
 title: Awesome Lists
 ---
+
+<p align="center">
+  <img width="20%" src="./assets/ctdl3.jpg" alt="PE File Format" width="650">
+</p>
+
 # My [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) Lists:
  * [Awesome Blue Teaming](https://github.com/cybersecurity-dev/awesome-blue-teaming)
  * [Awesome Building and Implementing AI-Driven Solution](https://github.com/cybersecurity-dev/awesome-building-implementing-ai-driven-solution)
