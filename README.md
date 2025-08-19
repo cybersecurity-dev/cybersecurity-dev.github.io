@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="20%" src="./assets/ctdl.jpeg" alt="PE File Format" width="650">
+</p>
+
 # Cybersecurity Information Sharing Platform
 
 **Sharing our expertise and knowledge acquired through the cybersecurity projects**
