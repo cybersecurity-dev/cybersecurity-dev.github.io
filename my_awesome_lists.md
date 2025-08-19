@@ -16,7 +16,9 @@ title: Awesome Lists
  * [Awesome GPU Programming](https://github.com/cybersecurity-dev/awesome-gpu-programming)
  * [Awesome Open Source Intelligence (OSINT)](https://github.com/cybersecurity-dev/awesome-open-source-intelligence)
  * [Awesome PCAP Feature Extractor](https://github.com/cybersecurity-dev/awesome-pcap-feature-extractor)
+ * [Awesome PostgreSQL](https://github.com/cybersecurity-dev/awesome-postgresql)
  * [Awesome Red Teaming](https://github.com/cybersecurity-dev/awesome-red-teaming)
+ * [Awesome Redis](https://github.com/cybersecurity-dev/awesome-redis)
  * [Awesome Threat Modeling](https://github.com/cybersecurity-dev/awesome-threat-modeling)
  * [Awesome YARA](https://github.com/cybersecurity-dev/awesome-yara)
 
