@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="./assets/ctdl-logo.png" alt="Cyber Threat Defence Lab">
-</p>
+
+<p align="center"><a href="https://cyberthreatdefence.com/">
+  <img width="25%" src="./assets/ctdl4.png" alt="Cyber Threat Defence Lab">
+</a></p>
 
 # Cybersecurity Information Sharing Platform
 
