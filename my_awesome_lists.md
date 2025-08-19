@@ -3,9 +3,9 @@ layout: default
 title: Awesome Lists
 ---
 
-<p align="center">
-  <img width="20%" src="./assets/ctdl3.jpg" alt="PE File Format" width="650">
-</p>
+<p align="center"><a href="https://cyberthreatdefence.com/">
+  <img width="20%" src="./assets/ctdl3.jpg" alt="Cyber Threat Defence Lab">
+</a></p>
 
 # My [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) Lists:
  * [Awesome Blue Teaming](https://github.com/cybersecurity-dev/awesome-blue-teaming)
