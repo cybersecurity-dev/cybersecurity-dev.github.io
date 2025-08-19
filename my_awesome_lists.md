@@ -47,6 +47,7 @@ title: Awesome Lists
    * [Awesome Android System Programming](https://github.com/cybersecurity-dev/awesome-android-system-programming)
  * [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
    * [Awesome Linux Driver Development](https://github.com/cybersecurity-dev/awesome-linux-driver-development)
+   * [Awesome Linux Kernel Development](https://github.com/cybersecurity-dev/awesome-linux-kernel-development)
    * [Awesome Linux System Programming](https://github.com/cybersecurity-dev/awesome-linux-system-programming)
  * [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
    * [Awesome Windows System Programming](https://github.com/cybersecurity-dev/awesome-windows-system-programming)
