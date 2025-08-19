@@ -3,9 +3,9 @@ layout: default
 title: Cybersecurity
 ---
 
-<p align="center">
-  <img src="./assets/ctdl2-logo.png"  alt="Cyber Threat Defence Lab">
-</p>
+<p align="center"><a href="https://cyberthreatdefence.com/">
+  <img width="20%" src="./assets/ctdl2.jpg" alt="Cyber Threat Defence Lab">
+</a></p>
 
 
 # [Cyber](https://simple.wikipedia.org/wiki/Cybersecurity)[Security](https://en.wikipedia.org/wiki/List_of_cybersecurity_information_technologies)
