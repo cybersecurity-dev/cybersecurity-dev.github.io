@@ -3,6 +3,10 @@ layout: default
 title: Computer Science
 ---
 
+<p align="center"><a href="https://cyberthreatdefence.com/">
+  <img width="20%" src="./assets/ctdl.jpeg" alt="Cyber Threat Defence Lab">
+</a></p>
+
 # [Computer Science](https://en.wikipedia.org/wiki/Computer_science)
 
 
