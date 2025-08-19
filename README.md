@@ -1,4 +1,3 @@
-
 <p align="center"><a href="https://cyberthreatdefence.com/">
   <img width="20%" src="./assets/ctdl5.png" alt="Cyber Threat Defence Lab">
 </a></p>
