@@ -8,24 +8,19 @@ title: Awesome Lists
 </a></p>
 
 # My [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) Lists:
- * [Awesome Blue Teaming](https://github.com/cybersecurity-dev/awesome-blue-teaming)
- * [Awesome Bug Bounty Hunter](https://github.com/cybersecurity-dev/awesome-bug-bounty-hunter)
  * [Awesome Building and Implementing AI-Driven Solution](https://github.com/cybersecurity-dev/awesome-building-implementing-ai-driven-solution)
  * [Awesome Compiler Principles Techniques Tools](https://github.com/cybersecurity-dev/awesome-compiler-principles-techniques-tools)
  * [Awesome Design Patterns](https://github.com/cybersecurity-dev/awesome-design-patterns)
- * [Awesome Fuzzing](https://github.com/cybersecurity-dev/awesome-fuzzing)
  * [Awesome GPU Programming](https://github.com/cybersecurity-dev/awesome-gpu-programming)
- * [Awesome Open Source Intelligence (OSINT)](https://github.com/cybersecurity-dev/awesome-open-source-intelligence)
+ * [Awesome NATS](https://github.com/cybersecurity-dev/awesome-nats)
  * [Awesome PCAP Feature Extractor](https://github.com/cybersecurity-dev/awesome-pcap-feature-extractor)
  * [Awesome PostgreSQL](https://github.com/cybersecurity-dev/awesome-postgresql)
- * [Awesome Red Teaming](https://github.com/cybersecurity-dev/awesome-red-teaming)
  * [Awesome Redis](https://github.com/cybersecurity-dev/awesome-redis)
- * [Awesome Threat Modeling](https://github.com/cybersecurity-dev/awesome-threat-modeling)
- * [Awesome YARA](https://github.com/cybersecurity-dev/awesome-yara)
 
----
 
-## [↑](#my--lists) Programming Language
+## [↑](#my--lists) Development
+
+### Programming Language
  * [Awesome Assembly Programming Language](https://github.com/cybersecurity-dev/awesome-assembly-programming-language)
  * [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
    * [Awesome C Programming Language](https://github.com/cybersecurity-dev/awesome-c-programming-language)
@@ -42,15 +37,14 @@ title: Awesome Lists
  * [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](https://en.wikipedia.org/wiki/Rust_(programming_language))
    * [Awesome Rust Programming Language](https://github.com/cybersecurity-dev/awesome-rust-programming-language)
 
----
 
-## [↑](#my--lists) Scripting Language
+
+### Scripting Language
  * [Awesome Bash Scripting Language](https://github.com/cybersecurity-dev/awesome-bash-scripting-language)
  * [Awesome Powershell Scripting Language](https://github.com/cybersecurity-dev/awesome-powershell-scripting-language)
 
----
 
-## [↑](#my--lists) Low-Level Programming
+### Low-Level Programming
  * [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://en.wikipedia.org/wiki/Android_(operating_system))
    * [Awesome Android System Programming](https://github.com/cybersecurity-dev/awesome-android-system-programming)
  * [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
@@ -60,25 +54,42 @@ title: Awesome Lists
  * [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
    * [Awesome Windows System Programming](https://github.com/cybersecurity-dev/awesome-windows-system-programming)
 
+
+### Offensive Development
+ * [Awesome Active Code Hardening](https://github.com/cybersecurity-dev/awesome-active-code-hardening)
+ * [Awesome Code Hardening](https://github.com/cybersecurity-dev/awesome-code-hardening)
+ * [Awesome Exploit Development](https://github.com/cybersecurity-dev/awesome-exploit-development)
+ * [Awesome Passive Code Hardening](https://github.com/cybersecurity-dev/awesome-passive-code-hardening)
+
+---
 ---
 
-## [↑](#my--lists) Malware
+## [↑](#my--lists) Cybersecurity
+* [Awesome Blue Teaming](https://github.com/cybersecurity-dev/awesome-blue-teaming)
+* [Awesome Bug Bounty Hunter](https://github.com/cybersecurity-dev/awesome-bug-bounty-hunter)
+* [Awesome Fuzzing](https://github.com/cybersecurity-dev/awesome-fuzzing)
+* [Awesome Open Source Intelligence (OSINT)](https://github.com/cybersecurity-dev/awesome-open-source-intelligence)
+* [Awesome Red Teaming](https://github.com/cybersecurity-dev/awesome-red-teaming)
+* [Awesome Threat Modeling](https://github.com/cybersecurity-dev/awesome-threat-modeling)
+* [Awesome YARA](https://github.com/cybersecurity-dev/awesome-yara) 
+
+### Malware
  * [Awesome Benign Datasets](https://github.com/cybersecurity-dev/awesome-benign-datasets)
  * [Awesome Malware Datasets](https://github.com/cybersecurity-dev/awesome-malware-datasets)
  * [Awesome Malware & Reverse Engineering Certification](https://github.com/cybersecurity-dev/awesome-malware-reverse-engineering-certification)
 
-### Malware Types
+#### Malware Types
   * [Awesome Advanced Persistent Threat](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat)
   * [Awesome Fileless Malware](https://github.com/cybersecurity-dev/awesome-fileless-malware)
   * [Awesome Metamorphic Malware](https://github.com/cybersecurity-dev/awesome-metamorphic-malware)
   * [Awesome Polymorphic Malware](https://github.com/cybersecurity-dev/awesome-polymorphic-malware)
   * [Awesome Rootkit Malware](https://github.com/cybersecurity-dev/awesome-rootkit-malware)
 
-### Malware Detection
+#### Malware Detection
   * [Awesome Malware Traffic Analysis](https://github.com/cybersecurity-dev/awesome-malware-traffic-analysis)
   * [Awesome Online Malware Analysis Tools](https://github.com/cybersecurity-dev/awesome-online-malware-analysis-tools)
 
-### Malware Scientific Research
+#### Malware Scientific Research
   * [Awesome Advanced Persistent Threat Scientific Research](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat-scientific-research)
   * [Awesome Fileless Malware Scientific Research](https://github.com/cybersecurity-dev/awesome-fileless-malware-scientific-research)
   * [Awesome Malware Traffic Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-malware-traffic-analysis-scientific-research)
@@ -96,15 +107,7 @@ title: Awesome Lists
   * [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
     * [Awesome Static Windows Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-windows-malware-analysis-scientific-research)
 
-### Offensive Development
- * [Awesome Active Code Hardening](https://github.com/cybersecurity-dev/awesome-active-code-hardening)
- * [Awesome Code Hardening](https://github.com/cybersecurity-dev/awesome-code-hardening)
- * [Awesome Exploit Development](https://github.com/cybersecurity-dev/awesome-exploit-development)
- * [Awesome Passive Code Hardening](https://github.com/cybersecurity-dev/awesome-passive-code-hardening)
-
----
-
-## [↑](#my--lists) Reverse Engineering
+### Reverse Engineering
   * [Awesome Reverse Engineering](https://github.com/cybersecurity-dev/awesome-reverse-engineering)
   * [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
     * [Awesome Android Reverse Engineering](https://github.com/cybersecurity-dev/awesome-android-reverse-engineering)
@@ -118,9 +121,7 @@ title: Awesome Lists
     * [Awesome PE Feature Extractor](https://github.com/cybersecurity-dev/awesome-pe-feature-extractor)
     * [Awesome Windows Reverse Engineering](https://github.com/cybersecurity-dev/awesome-windows-reverse-engineering)
 
----
-
-## [↑](#my--lists) Vulnerability Research
+### Vulnerability Research
   * [Awesome Vulnerability Research](https://github.com/cybersecurity-dev/awesome-vulnerability-research)
   * [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
     * [Awesome Android Vulnerability Research](https://github.com/cybersecurity-dev/awesome-android-vulnerability-research)
@@ -131,6 +132,7 @@ title: Awesome Lists
   * [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
     * [Awesome Windows Vulnerability Research](https://github.com/cybersecurity-dev/awesome-windows-vulnerability-research)
 
+---
 ---
 
 ## [↑](#my--lists) Smart Contract
