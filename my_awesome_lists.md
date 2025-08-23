@@ -76,6 +76,7 @@ title: Awesome Lists
 
 ### Malware
  * [Awesome Benign Datasets](https://github.com/cybersecurity-dev/awesome-benign-datasets)
+ * [Awesome Evasive Malware](https://github.com/cybersecurity-dev/awesome-evasive-malware)
  * [Awesome Malware Datasets](https://github.com/cybersecurity-dev/awesome-malware-datasets)
  * [Awesome Malware & Reverse Engineering Certification](https://github.com/cybersecurity-dev/awesome-malware-reverse-engineering-certification)
 
