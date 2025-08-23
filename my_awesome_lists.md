@@ -13,6 +13,7 @@ title: Awesome Lists
  * [Awesome Design Patterns](https://github.com/cybersecurity-dev/awesome-design-patterns)
  * [Awesome GPU Programming](https://github.com/cybersecurity-dev/awesome-gpu-programming)
  * [Awesome NATS](https://github.com/cybersecurity-dev/awesome-nats)
+ * [Awesome OS Development](https://github.com/cybersecurity-dev/awesome-os-development)
  * [Awesome PCAP Feature Extractor](https://github.com/cybersecurity-dev/awesome-pcap-feature-extractor)
  * [Awesome PostgreSQL](https://github.com/cybersecurity-dev/awesome-postgresql)
  * [Awesome Redis](https://github.com/cybersecurity-dev/awesome-redis)
