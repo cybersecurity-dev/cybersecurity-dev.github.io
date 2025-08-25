@@ -69,6 +69,7 @@ title: Awesome Lists
 * [Awesome Binary Exploitation](https://github.com/cybersecurity-dev/awesome-binary-exploitation)
 * [Awesome Blue Teaming](https://github.com/cybersecurity-dev/awesome-blue-teaming)
 * [Awesome Bug Bounty Hunter](https://github.com/cybersecurity-dev/awesome-bug-bounty-hunter)
+* [Awesome Cryptography](https://github.com/cybersecurity-dev/awesome-cryptography)
 * [Awesome Fuzzing](https://github.com/cybersecurity-dev/awesome-fuzzing)
 * [Awesome Open Source Intelligence (OSINT)](https://github.com/cybersecurity-dev/awesome-open-source-intelligence)
 * [Awesome Red Teaming](https://github.com/cybersecurity-dev/awesome-red-teaming)
