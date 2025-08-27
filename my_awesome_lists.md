@@ -10,16 +10,16 @@ title: Awesome Lists
 # My [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) Lists:
  * [Awesome Building and Implementing AI-Driven Solution](https://github.com/cybersecurity-dev/awesome-building-implementing-ai-driven-solution)
  * [Awesome Compiler Principles Techniques Tools](https://github.com/cybersecurity-dev/awesome-compiler-principles-techniques-tools)
- * [Awesome Design Patterns](https://github.com/cybersecurity-dev/awesome-design-patterns)
- * [Awesome GPU Programming](https://github.com/cybersecurity-dev/awesome-gpu-programming)
  * [Awesome NATS](https://github.com/cybersecurity-dev/awesome-nats)
  * [Awesome OS Development](https://github.com/cybersecurity-dev/awesome-os-development)
  * [Awesome PCAP Feature Extractor](https://github.com/cybersecurity-dev/awesome-pcap-feature-extractor)
  * [Awesome PostgreSQL](https://github.com/cybersecurity-dev/awesome-postgresql)
  * [Awesome Redis](https://github.com/cybersecurity-dev/awesome-redis)
 
-
 ## [↑](#my--lists) Development
+ * [Awesome API Architecture](https://github.com/cybersecurity-dev/awesome-api-architecture)
+ * [Awesome Design Patterns](https://github.com/cybersecurity-dev/awesome-design-patterns)
+ * [Awesome GPU Programming](https://github.com/cybersecurity-dev/awesome-gpu-programming)
 
 ### Programming Language
  * [Awesome Assembly Programming Language](https://github.com/cybersecurity-dev/awesome-assembly-programming-language)
