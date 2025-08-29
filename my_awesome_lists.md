@@ -19,6 +19,7 @@ title: Awesome Lists
 
 ## [↑](#my--lists) Development
  * [Awesome API Architecture](https://github.com/cybersecurity-dev/awesome-api-architecture)
+ * [Awesome C++ Style Guide](https://github.com/cybersecurity-dev/awesome-cpp-style-guide)
  * [Awesome Design Patterns](https://github.com/cybersecurity-dev/awesome-design-patterns)
  * [Awesome GPU Programming](https://github.com/cybersecurity-dev/awesome-gpu-programming)
  * [Awesome Software Testing](https://github.com/cybersecurity-dev/awesome-software-testing)
