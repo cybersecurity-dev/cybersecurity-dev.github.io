@@ -14,6 +14,7 @@ title: Awesome Lists
  * [Awesome OS Development](https://github.com/cybersecurity-dev/awesome-os-development)
  * [Awesome PCAP Feature Extractor](https://github.com/cybersecurity-dev/awesome-pcap-feature-extractor)
  * [Awesome PostgreSQL](https://github.com/cybersecurity-dev/awesome-postgresql)
+ * [Awesome Programming Language Design](https://github.com/cybersecurity-dev/awesome-programming-language-design)
  * [Awesome Redis](https://github.com/cybersecurity-dev/awesome-redis)
 
 ## [↑](#my--lists) Development
