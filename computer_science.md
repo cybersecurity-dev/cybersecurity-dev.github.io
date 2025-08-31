@@ -18,6 +18,7 @@ title: Computer Science
 ---
 
 ## Data Structures 
+* [Data Structures in C](https://github.com/cybersecurity-dev/data-structures-in-c)
 * [Data Structures in C++](https://github.com/cybersecurity-dev/data-structures-in-cpp)
 * [Data Structures in F#](https://github.com/cybersecurity-dev/data-structures-in-fsharp)
 
