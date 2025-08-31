@@ -22,6 +22,7 @@ title: Awesome Lists
  * [Awesome C++ Style Guide](https://github.com/cybersecurity-dev/awesome-cpp-style-guide)
  * [Awesome Design Patterns](https://github.com/cybersecurity-dev/awesome-design-patterns)
  * [Awesome GPU Programming](https://github.com/cybersecurity-dev/awesome-gpu-programming)
+ * [Awesome Software Profiling](https://github.com/cybersecurity-dev/awesome-software-profiling)
  * [Awesome Software Testing](https://github.com/cybersecurity-dev/awesome-software-testing)
 
 ### Programming Language
