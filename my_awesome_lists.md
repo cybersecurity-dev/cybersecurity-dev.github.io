@@ -16,6 +16,7 @@ title: Awesome Lists
  * [Awesome PostgreSQL](https://github.com/cybersecurity-dev/awesome-postgresql)
  * [Awesome Programming Language Design](https://github.com/cybersecurity-dev/awesome-programming-language-design)
  * [Awesome Redis](https://github.com/cybersecurity-dev/awesome-redis)
+ * [Awesome Windows Internals](https://github.com/cybersecurity-dev/awesome-windows-internals)
 
 ## [↑](#my--lists) Development
  * [Awesome API Architecture](https://github.com/cybersecurity-dev/awesome-api-architecture)
