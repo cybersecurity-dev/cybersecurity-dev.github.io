@@ -12,6 +12,7 @@ title: Computer Science
 
 ## Algorithms
 * [Algorithms in Assembly](https://github.com/cybersecurity-dev/algorithms-in-assembly)
+* [Algorithms in C](https://github.com/cybersecurity-dev/algorithms-in-c)
 * [Algorithms in C++](https://github.com/cybersecurity-dev/algorithms-in-cpp)
 * [Algorithms in F#](https://github.com/cybersecurity-dev/algorithms-in-fsharp)
 
