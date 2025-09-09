@@ -8,6 +8,7 @@ title: Awesome Lists
 </a></p>
 
 # My [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) Lists:
+ * [Awesome Advanced Threat Prevention](https://github.com/cybersecurity-dev/awesome-advanced-threat-prevention)
  * [Awesome Android Internals](https://github.com/cybersecurity-dev/awesome-android-internals)
  * [Awesome Building and Implementing AI-Driven Solution](https://github.com/cybersecurity-dev/awesome-building-implementing-ai-driven-solution)
  * [Awesome Compiler Principles Techniques Tools](https://github.com/cybersecurity-dev/awesome-compiler-principles-techniques-tools)
