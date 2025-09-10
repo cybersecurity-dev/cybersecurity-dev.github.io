@@ -82,6 +82,7 @@ title: Awesome Lists
 * [Awesome Cryptography](https://github.com/cybersecurity-dev/awesome-cryptography)
 * [Awesome Fuzzing](https://github.com/cybersecurity-dev/awesome-fuzzing)
 * [Awesome Open Source Intelligence (OSINT)](https://github.com/cybersecurity-dev/awesome-open-source-intelligence)
+* [Awesome Purple Teaming](https://github.com/cybersecurity-dev/awesome-purple-teaming)
 * [Awesome Red Teaming](https://github.com/cybersecurity-dev/awesome-red-teaming)
 * [Awesome Threat Modeling](https://github.com/cybersecurity-dev/awesome-threat-modeling)
 * [Awesome YARA](https://github.com/cybersecurity-dev/awesome-yara) 
