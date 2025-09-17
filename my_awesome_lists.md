@@ -117,10 +117,10 @@ title: Awesome Lists
     * [Awesome Static Android Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-static-android-malware-detection-scientific-research)
 
   * [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-    * [Awesome Static Linux Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-linux-malware-analysis-scientific-research)
+    * [Awesome Static Linux Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-static-linux-malware-detection-scientific-research)
 
   * [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-    * [Awesome Static Windows Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-static-windows-malware-analysis-scientific-research)
+    * [Awesome Static Windows Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-static-windows-malware-detection-scientific-research)
 
 ### Reverse Engineering
   * [Awesome Reverse Engineering](https://github.com/cybersecurity-dev/awesome-reverse-engineering)
