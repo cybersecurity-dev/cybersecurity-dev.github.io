@@ -114,6 +114,7 @@ title: Awesome Lists
   * [Awesome Time Series based Anomaly Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-time-series-anomaly-detection-scientific-research)
   * [Awesome Time Series based Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-time-series-malware-detection-scientific-research)
   * [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+    * [Awesome Dynamic Android Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-dynamic-android-malware-detection-scientific-research)
     * [Awesome Static Android Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-static-android-malware-detection-scientific-research)
 
   * [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
