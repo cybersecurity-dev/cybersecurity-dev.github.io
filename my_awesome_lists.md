@@ -118,6 +118,7 @@ title: Awesome Lists
     * [Awesome Static Android Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-static-android-malware-detection-scientific-research)
 
   * [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+    * [Awesome Dynamic Linux Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-dynamic-linux-malware-detection-scientific-research) 
     * [Awesome Static Linux Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-static-linux-malware-detection-scientific-research)
 
   * [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
