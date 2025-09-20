@@ -122,6 +122,7 @@ title: Awesome Lists
     * [Awesome Static Linux Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-static-linux-malware-detection-scientific-research)
 
   * [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+    * [Awesome Dynamic Windows Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-dynamic-windows-malware-detection-scientific-research)
     * [Awesome Static Windows Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-static-windows-malware-detection-scientific-research)
 
 ### Reverse Engineering
