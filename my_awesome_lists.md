@@ -14,6 +14,7 @@ title: Awesome Lists
  * [Awesome Compiler Principles Techniques Tools](https://github.com/cybersecurity-dev/awesome-compiler-principles-techniques-tools)
  * [Awesome Linux Internals](https://github.com/cybersecurity-dev/awesome-linux-internals)
  * [Awesome NATS](https://github.com/cybersecurity-dev/awesome-nats)
+ * [Awesome Network Debugging](https://github.com/cybersecurity-dev/awesome-network-debugging)
  * [Awesome OS Development](https://github.com/cybersecurity-dev/awesome-os-development)
  * [Awesome PCAP Feature Extractor](https://github.com/cybersecurity-dev/awesome-pcap-feature-extractor)
  * [Awesome PostgreSQL](https://github.com/cybersecurity-dev/awesome-postgresql)
