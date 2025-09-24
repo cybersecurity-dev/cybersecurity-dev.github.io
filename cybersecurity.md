@@ -11,7 +11,7 @@ title: Cybersecurity
 # [Cyber](https://simple.wikipedia.org/wiki/Cybersecurity)[Security](https://en.wikipedia.org/wiki/List_of_cybersecurity_information_technologies)
 
 * [PCAP Feature Extractor Toolkit](https://github.com/cybersecurity-dev/PCAP-Toolkit)
-* [Static Binary Feature Extractor](https://github.com/cybersecurity-dev/SBFE)
+* [Static Feature Extraction Tool](https://github.com/cybersecurity-dev/SFET)
 
 ---
 ---
@@ -32,7 +32,7 @@ title: Cybersecurity
 
 ---
 
-## [Smart Contract](https://en.wikipedia.org/wiki/Smart_contract) Feature Extractor
+### [Smart Contract](https://en.wikipedia.org/wiki/Smart_contract) Feature Extractor
 * [Smart Contract Toolkit](https://github.com/cybersecurity-dev/SmartContract-Toolkit)
 
 ---
