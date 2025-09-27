@@ -28,7 +28,6 @@ title: Awesome Lists
 
 ## [↑](#my--lists) Development
  * [Awesome API Architecture](https://github.com/cybersecurity-dev/awesome-api-architecture)
- * [Awesome C++ Style Guide](https://github.com/cybersecurity-dev/awesome-cpp-style-guide)
  * [Awesome Design Patterns](https://github.com/cybersecurity-dev/awesome-design-patterns)
  * [Awesome Network Programming](https://github.com/cybersecurity-dev/awesome-network-programming)
  * [Awesome GPU Programming](https://github.com/cybersecurity-dev/awesome-gpu-programming)
@@ -41,8 +40,10 @@ title: Awesome Lists
  * [Awesome Assembly Programming Language](https://github.com/cybersecurity-dev/awesome-assembly-programming-language)
  * [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
    * [Awesome C Programming Language](https://github.com/cybersecurity-dev/awesome-c-programming-language)
+   * [Awesome C Style Guide](https://github.com/cybersecurity-dev/awesome-c-style-guide)
  * [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
    * [Awesome C++ Programming Language](https://github.com/cybersecurity-dev/awesome-cpp-programming-language)
+   * [Awesome C++ Style Guide](https://github.com/cybersecurity-dev/awesome-cpp-style-guide)
  * [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
    * [Awesome C# Programming Language](https://github.com/cybersecurity-dev/awesome-csharp-programming-language)
  * [![F#](https://img.shields.io/badge/F%23-378BBA?logo=fsharp&logoColor=fff)](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))
