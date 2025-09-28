@@ -37,7 +37,8 @@ title: Awesome Lists
 ---
 
 ### Programming Language
- * [Awesome Assembly Programming Language](https://github.com/cybersecurity-dev/awesome-assembly-programming-language)
+ * [![](https://img.shields.io/badge/X86_Assembly-0071C5?logo=intel&logoColor=white)](https://en.wikipedia.org/wiki/X86_assembly_language)
+   * [Awesome Assembly Programming Language](https://github.com/cybersecurity-dev/awesome-assembly-programming-language)
  * [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
    * [Awesome C Programming Language](https://github.com/cybersecurity-dev/awesome-c-programming-language)
    * [Awesome C Style Guide](https://github.com/cybersecurity-dev/awesome-c-style-guide)
