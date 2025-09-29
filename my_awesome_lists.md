@@ -152,7 +152,8 @@ title: Awesome Lists
     * [Awesome APK Feature Extractor](https://github.com/cybersecurity-dev/awesome-apk-feature-extractor)
   
   * [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-    * [Awesome ELF Feature Extractor](https://github.com/cybersecurity-dev/awesome-elf-feature-extractor)
+    * [Awesome ELF (_Executable and Linkable Format_) Feature Extractor](https://github.com/cybersecurity-dev/awesome-elf-feature-extractor)
+    * [Awesome ELF (_Executable and Linkable Format_) Internals](https://github.com/cybersecurity-dev/awesome-elf-internals)
     * [Awesome Linux Reverse Engineering](https://github.com/cybersecurity-dev/awesome-linux-reverse-engineering/)
   
   * [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
