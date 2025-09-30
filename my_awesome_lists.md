@@ -39,20 +39,27 @@ title: Awesome Lists
 ### Programming Language
  * [![](https://img.shields.io/badge/X86_Assembly-0071C5?logo=intel&logoColor=white)](https://en.wikipedia.org/wiki/X86_assembly_language)
    * [Awesome Assembly Programming Language](https://github.com/cybersecurity-dev/awesome-assembly-programming-language)
+ 
  * [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
    * [Awesome C Programming Language](https://github.com/cybersecurity-dev/awesome-c-programming-language)
    * [Awesome C Style Guide](https://github.com/cybersecurity-dev/awesome-c-style-guide)
+ 
  * [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
    * [Awesome C++ Programming Language](https://github.com/cybersecurity-dev/awesome-cpp-programming-language)
    * [Awesome C++ Style Guide](https://github.com/cybersecurity-dev/awesome-cpp-style-guide)
+ 
  * [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
    * [Awesome C# Programming Language](https://github.com/cybersecurity-dev/awesome-csharp-programming-language)
+ 
  * [![F#](https://img.shields.io/badge/F%23-378BBA?logo=fsharp&logoColor=fff)](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))
    * [Awesome F# Programming Language](https://github.com/cybersecurity-dev/awesome-fsharp-programming-language)
+ 
  * [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](https://en.wikipedia.org/wiki/Go_(programming_language))
    * [Awesome Go Programming Language](https://github.com/cybersecurity-dev/awesome-go-programming-language)
+ 
  * [![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54)](https://en.wikipedia.org/wiki/Python_(programming_language))
    * [Awesome Python Programming Language](https://github.com/cybersecurity-dev/awesome-python-programming-language)
+ 
  * [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](https://en.wikipedia.org/wiki/Rust_(programming_language))
    * [Awesome Rust Programming Language](https://github.com/cybersecurity-dev/awesome-rust-programming-language)
 
@@ -67,10 +74,12 @@ title: Awesome Lists
 ### Low-Level Programming
  * [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://en.wikipedia.org/wiki/Android_(operating_system))
    * [Awesome Android System Programming](https://github.com/cybersecurity-dev/awesome-android-system-programming)
+ 
  * [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux)
    * [Awesome Linux Driver Development](https://github.com/cybersecurity-dev/awesome-linux-driver-development)
    * [Awesome Linux Kernel Development](https://github.com/cybersecurity-dev/awesome-linux-kernel-development)
    * [Awesome Linux System Programming](https://github.com/cybersecurity-dev/awesome-linux-system-programming)
+ 
  * [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](https://en.wikipedia.org/wiki/Microsoft_Windows)
    * [Awesome Windows System Programming](https://github.com/cybersecurity-dev/awesome-windows-system-programming)
 
@@ -91,7 +100,7 @@ title: Awesome Lists
 * [Awesome Bug Bounty Hunter](https://github.com/cybersecurity-dev/awesome-bug-bounty-hunter)
 * [Awesome Cryptography](https://github.com/cybersecurity-dev/awesome-cryptography)
 * [Awesome Fuzzing](https://github.com/cybersecurity-dev/awesome-fuzzing)
-* [Awesome Open Source Intelligence (OSINT)](https://github.com/cybersecurity-dev/awesome-open-source-intelligence)
+* [Awesome OSINT (_Open Source Intelligence_)](https://github.com/cybersecurity-dev/awesome-open-source-intelligence)
 * [Awesome Purple Teaming](https://github.com/cybersecurity-dev/awesome-purple-teaming)
 * [Awesome Red Teaming](https://github.com/cybersecurity-dev/awesome-red-teaming)
 * [Awesome Threat Modeling](https://github.com/cybersecurity-dev/awesome-threat-modeling)
@@ -158,7 +167,7 @@ title: Awesome Lists
     * [Awesome Linux Reverse Engineering](https://github.com/cybersecurity-dev/awesome-linux-reverse-engineering/)
   
   * [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-    * [Awesome PE Feature Extractor](https://github.com/cybersecurity-dev/awesome-pe-feature-extractor)
+    * [Awesome PE (_Portable Executable_) Feature Extractor](https://github.com/cybersecurity-dev/awesome-pe-feature-extractor)
     * [Awesome Windows Reverse Engineering](https://github.com/cybersecurity-dev/awesome-windows-reverse-engineering)
 
 ---
