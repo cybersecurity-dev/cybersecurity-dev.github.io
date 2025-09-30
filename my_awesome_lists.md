@@ -149,7 +149,8 @@ title: Awesome Lists
   * [Awesome Reverse Engineering](https://github.com/cybersecurity-dev/awesome-reverse-engineering)
   * [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
     * [Awesome Android Reverse Engineering](https://github.com/cybersecurity-dev/awesome-android-reverse-engineering)
-    * [Awesome APK Feature Extractor](https://github.com/cybersecurity-dev/awesome-apk-feature-extractor)
+    * [Awesome APK (_Android Package_) Feature Extractor](https://github.com/cybersecurity-dev/awesome-apk-feature-extractor)
+    * [Awesome APK (_Android Package_) Internals](https://github.com/cybersecurity-dev/awesome-apk-internals)
   
   * [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
     * [Awesome ELF (_Executable and Linkable Format_) Feature Extractor](https://github.com/cybersecurity-dev/awesome-elf-feature-extractor)
