@@ -140,6 +140,7 @@ title: Awesome Lists
   * [Awesome Rootkit Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-rootkit-malware-analysis-scientific-research)
   * [Awesome Time Series based Anomaly Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-time-series-anomaly-detection-scientific-research)
   * [Awesome Time Series based Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-time-series-malware-detection-scientific-research)
+  
   * [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
     * [Awesome Dynamic Android Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-dynamic-android-malware-detection-scientific-research)
     * [Awesome Static Android Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-static-android-malware-detection-scientific-research)
@@ -156,6 +157,7 @@ title: Awesome Lists
 
 ### Reverse Engineering
   * [Awesome Reverse Engineering](https://github.com/cybersecurity-dev/awesome-reverse-engineering)
+  
   * [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
     * [Awesome Android Reverse Engineering](https://github.com/cybersecurity-dev/awesome-android-reverse-engineering)
     * [Awesome APK (_Android Package_) Feature Extractor](https://github.com/cybersecurity-dev/awesome-apk-feature-extractor)
@@ -168,12 +170,14 @@ title: Awesome Lists
   
   * [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
     * [Awesome PE (_Portable Executable_) Feature Extractor](https://github.com/cybersecurity-dev/awesome-pe-feature-extractor)
+    * [Awesome PE (_Portable Executable_) Internals](https://github.com/cybersecurity-dev/awesome-pe-internals)
     * [Awesome Windows Reverse Engineering](https://github.com/cybersecurity-dev/awesome-windows-reverse-engineering)
 
 ---
 
 ### Vulnerability Research
   * [Awesome Vulnerability Research](https://github.com/cybersecurity-dev/awesome-vulnerability-research)
+  
   * [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
     * [Awesome Android Vulnerability Research](https://github.com/cybersecurity-dev/awesome-android-vulnerability-research)
 
