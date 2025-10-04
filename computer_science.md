@@ -23,19 +23,6 @@ title: Computer Science
 * [Data Structures in C++](https://github.com/cybersecurity-dev/data-structures-in-cpp)
 * [Data Structures in F#](https://github.com/cybersecurity-dev/data-structures-in-fsharp)
 
----
-
-## Low Level Programming
-
-### Android 
-* [Event Tracing for Android](https://github.com/cybersecurity-dev/AET)
-
-### Linux
-* [Event Tracing for Linux](https://github.com/cybersecurity-dev/LET)
-* [Linux-FileOwl](https://github.com/cybersecurity-dev/Linux-FileOwl)
-
-### Windows
-* [Event Tracing for Windows](https://github.com/cybersecurity-dev/WET)
 
 ---
 ---
