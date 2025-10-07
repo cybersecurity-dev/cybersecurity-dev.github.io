@@ -22,7 +22,7 @@ title: Awesome Lists
  * [Awesome Redis](https://github.com/cybersecurity-dev/awesome-redis)
  * [Awesome Virtual Infrastructures](https://github.com/cybersecurity-dev/awesome-virtual-infrastructures)
  * [Awesome Windows Internals](https://github.com/cybersecurity-dev/awesome-windows-internals)
-
+ * [Awesome Word2vec](https://github.com/cybersecurity-dev/awesome-word2vec)
 ---
 ---
 
