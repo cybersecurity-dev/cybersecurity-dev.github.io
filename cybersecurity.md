@@ -40,9 +40,7 @@ title: Cybersecurity
 ### [Malware](https://en.wikipedia.org/wiki/Malware) Detector
 * [ACSS: Advanced Cyber Security Shield](https://github.com/cybersecurity-dev/Advanced-Cyber-Security-Shield)
 
----
-
-### Vulnerability Detector
+### [Vulnerability](https://en.wikipedia.org/wiki/Vulnerability_management) Detector
 * [reVulnShield](https://github.com/cybersecurity-dev/reVulnShield)
 * [smartVulnShield](https://github.com/cybersecurity-dev/smartVulnShield)
 
