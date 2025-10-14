@@ -8,6 +8,7 @@ title: Awesome Lists
 </a></p>
 
 # My [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) Lists:
+ 
  * [Awesome Advanced Threat Prevention](https://github.com/cybersecurity-dev/awesome-advanced-threat-prevention)
  * [Awesome Android Internals](https://github.com/cybersecurity-dev/awesome-android-internals)
  * [Awesome Building and Implementing AI-Driven Solution](https://github.com/cybersecurity-dev/awesome-building-implementing-ai-driven-solution)
@@ -27,7 +28,7 @@ title: Awesome Lists
 ---
 ---
 
-## [↑](#my--lists) Development
+## [↑](#my--lists) Software Development
  * [Awesome API Architecture](https://github.com/cybersecurity-dev/awesome-api-architecture)
  * [Awesome Design Patterns](https://github.com/cybersecurity-dev/awesome-design-patterns)
  * [Awesome Network Programming](https://github.com/cybersecurity-dev/awesome-network-programming)
@@ -132,7 +133,7 @@ title: Awesome Lists
 
 ---
 
-#### Malware Scientific Research
+#### Malware Analysis/Detection Scientific Research
   * [Awesome Advanced Persistent Threat Scientific Research](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat-scientific-research)
   * [Awesome Fileless Malware Scientific Research](https://github.com/cybersecurity-dev/awesome-fileless-malware-scientific-research)
   * [Awesome Malware Traffic Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-malware-traffic-analysis-scientific-research)
@@ -200,7 +201,7 @@ title: Awesome Lists
 
 ---
 
-#### Malware Scientific Research
+### Smart Contract Scientific Research
  * [Awesome Malicious Smart Contract Scientific Research](https://github.com/cybersecurity-dev/awesome-malicious-smart-contract-scientific-research)
  * [Awesome Vulnerable Smart Contract Scientific Research](https://github.com/cybersecurity-dev/awesome-vulnerable-smart-contract-scientific-research)
 
