@@ -3,9 +3,11 @@ layout: default
 title: Awesome Lists
 ---
 
-<p align="center"><a href="https://cyberthreatdefence.com/">
-  <img width="20%" src="./assets/ctdl3.jpg" alt="Cyber Threat Defence Lab">
-</a></p>
+<p align="center">
+  <a href="https://cyberthreatdefence.com/">
+    <img width="20%" src="./assets/ctdl3.jpg" alt="Cyber Threat Defence Lab">
+  </a>
+</p>
 
 # My [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) Lists:
  
@@ -39,6 +41,8 @@ title: Awesome Lists
 ### Database
  * [Awesome PostgreSQL](https://github.com/cybersecurity-dev/awesome-postgresql) 
  * [Awesome Redis (_Remote Dictionary Server_)](https://github.com/cybersecurity-dev/awesome-redis)
+
+---
 
 ### Programming Language
  * [![](https://img.shields.io/badge/X86_Assembly-0071C5?logo=intel&logoColor=white)](https://en.wikipedia.org/wiki/X86_assembly_language)
