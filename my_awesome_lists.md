@@ -17,7 +17,6 @@ title: Awesome Lists
  * [ ] [Awesome Compiler Principles Techniques Tools](https://github.com/cybersecurity-dev/awesome-compiler-principles-techniques-tools)
  * [ ] [Awesome Linux Internals](https://github.com/cybersecurity-dev/awesome-linux-internals)
  * [ ] [Awesome NATS](https://github.com/cybersecurity-dev/awesome-nats)
- * [ ] [Awesome Network Debugging](https://github.com/cybersecurity-dev/awesome-network-debugging)
  * [ ] [Awesome OS Development](https://github.com/cybersecurity-dev/awesome-os-development)
  * [ ] [Awesome PCAP Feature Extractor](https://github.com/cybersecurity-dev/awesome-pcap-feature-extractor)
  * [ ] [Awesome Programming Language Design](https://github.com/cybersecurity-dev/awesome-programming-language-design)
@@ -196,6 +195,15 @@ title: Awesome Lists
 
   * [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
     * [ ] [Awesome Windows Vulnerability Research](https://github.com/cybersecurity-dev/awesome-windows-vulnerability-research)
+
+---
+---
+
+## [↑](#my--lists) Debugging
+ * Network Debugging
+   * [ ] [Awesome Network Debugging](https://github.com/cybersecurity-dev/awesome-network-debugging)
+ * Software Debugging in Linux
+   * [ ] [Awesome Linux Debuggers](https://github.com/cybersecurity-dev/awesome-linux-debuggers) 
 
 ---
 ---
