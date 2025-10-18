@@ -204,7 +204,9 @@ title: Awesome Lists
    * [ ] [Awesome Network Debugging](https://github.com/cybersecurity-dev/awesome-network-debugging)
  * Software Debugging in Linux
    * [ ] [Awesome Linux Debuggers](https://github.com/cybersecurity-dev/awesome-linux-debuggers) 
-   * [ ] [Awesome GDB (_GNU Debugger_)](https://github.com/cybersecurity-dev/awesome-gdb)
+     * [ ] [Awesome GDB (_GNU Debugger_)](https://github.com/cybersecurity-dev/awesome-gdb)
+     * [ ] [Awesome Strace](https://github.com/cybersecurity-dev/awesome-strace)
+
 ---
 ---
 
