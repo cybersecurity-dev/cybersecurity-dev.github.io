@@ -11,17 +11,22 @@ title: Computer Science
 
 
 ## Algorithms
-* [Algorithms in Assembly](https://github.com/cybersecurity-dev/algorithms-in-assembly)
-* [Algorithms in C](https://github.com/cybersecurity-dev/algorithms-in-c)
-* [Algorithms in C++](https://github.com/cybersecurity-dev/algorithms-in-cpp)
-* [Algorithms in F#](https://github.com/cybersecurity-dev/algorithms-in-fsharp)
+🎓 [Algorithms in Assembly](https://github.com/cybersecurity-dev/algorithms-in-assembly)
+
+🎓 [Algorithms in C](https://github.com/cybersecurity-dev/algorithms-in-c)
+
+🎓 [Algorithms in C++](https://github.com/cybersecurity-dev/algorithms-in-cpp)
+
+🎓 [Algorithms in F#](https://github.com/cybersecurity-dev/algorithms-in-fsharp)
 
 ---
 
 ## Data Structures 
-* [Data Structures in C](https://github.com/cybersecurity-dev/data-structures-in-c)
-* [Data Structures in C++](https://github.com/cybersecurity-dev/data-structures-in-cpp)
-* [Data Structures in F#](https://github.com/cybersecurity-dev/data-structures-in-fsharp)
+🎓 [Data Structures in C](https://github.com/cybersecurity-dev/data-structures-in-c)
+
+🎓 [Data Structures in C++](https://github.com/cybersecurity-dev/data-structures-in-cpp)
+
+🎓 [Data Structures in F#](https://github.com/cybersecurity-dev/data-structures-in-fsharp)
 
 
 ---
