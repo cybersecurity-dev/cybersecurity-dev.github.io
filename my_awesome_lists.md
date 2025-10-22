@@ -202,10 +202,13 @@ title: Awesome Lists
 ## [↑](#my--lists) Debugging
  * Network Debugging
    * [ ] [Awesome Network Debugging](https://github.com/cybersecurity-dev/awesome-network-debugging)
+ 
  * Software Debugging in Linux
    * [ ] [Awesome Linux Debuggers](https://github.com/cybersecurity-dev/awesome-linux-debuggers) 
      * [ ] [Awesome GDB (_GNU Debugger_)](https://github.com/cybersecurity-dev/awesome-gdb)
+     * [ ] [Awesome Ptrace](https://github.com/cybersecurity-dev/awesome-ptrace)
      * [ ] [Awesome Strace](https://github.com/cybersecurity-dev/awesome-strace)
+ 
  * Software Debugging in Android
    * [ ] [Awesome Android Debuggers](https://github.com/cybersecurity-dev/awesome-android-debuggers)
 ---
