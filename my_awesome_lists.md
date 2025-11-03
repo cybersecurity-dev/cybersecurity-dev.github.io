@@ -200,20 +200,20 @@ title: Awesome Lists
 ---
 
 ## [↑](#my--lists) Debugging
- * Network Debugging
-   * [ ] [Awesome Network Debugging](https://github.com/cybersecurity-dev/awesome-network-debugging)
+  * Network Debugging
+    * [ ] [Awesome Network Debugging](https://github.com/cybersecurity-dev/awesome-network-debugging)
 
   * Software Debugging in [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
-   * [ ] [Awesome Android Debuggers](https://github.com/cybersecurity-dev/awesome-android-debuggers)
+    * [ ] [Awesome Android Debuggers](https://github.com/cybersecurity-dev/awesome-android-debuggers)
 
- * Software Debugging in [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-   * [ ] [Awesome Linux Debuggers](https://github.com/cybersecurity-dev/awesome-linux-debuggers) 
-     * [ ] [Awesome GDB (_GNU Debugger_)](https://github.com/cybersecurity-dev/awesome-gdb)
-     * [ ] [Awesome Ptrace](https://github.com/cybersecurity-dev/awesome-ptrace)
-     * [ ] [Awesome Strace](https://github.com/cybersecurity-dev/awesome-strace)
+  * Software Debugging in [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+    * [ ] [Awesome Linux Debuggers](https://github.com/cybersecurity-dev/awesome-linux-debuggers) 
+      * [ ] [Awesome GDB (_GNU Debugger_)](https://github.com/cybersecurity-dev/awesome-gdb)
+      * [ ] [Awesome Ptrace](https://github.com/cybersecurity-dev/awesome-ptrace)
+      * [ ] [Awesome Strace](https://github.com/cybersecurity-dev/awesome-strace)
  
- * Software Debugging in [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-   * [ ] [Awesome Windows Debuggers](https://github.com/cybersecurity-dev/awesome-windows-debuggers)
+  * Software Debugging in [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+    * [ ] [Awesome Windows Debuggers](https://github.com/cybersecurity-dev/awesome-windows-debuggers)
 
 ---
 ---
