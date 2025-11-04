@@ -145,8 +145,6 @@ title: Awesome Lists
   * [ ] [Awesome Metamorphic Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-metamorphic-malware-analysis-scientific-research)
   * [ ] [Awesome Polymorphic Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-polymorphic-malware-analysis-scientific-research)
   * [ ] [Awesome Rootkit Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-rootkit-malware-analysis-scientific-research)
-  * [ ] [Awesome Time Series based Anomaly Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-time-series-anomaly-detection-scientific-research)
-  * [ ] [Awesome Time Series based Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-time-series-malware-detection-scientific-research)
   
   * [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
     * [ ] [Awesome Dynamic Android Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-dynamic-android-malware-detection-scientific-research)
