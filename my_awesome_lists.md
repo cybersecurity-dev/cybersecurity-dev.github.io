@@ -146,17 +146,17 @@ title: Awesome Lists
   * [ ] [Awesome Polymorphic Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-polymorphic-malware-analysis-scientific-research)
   * [ ] [Awesome Rootkit Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-rootkit-malware-analysis-scientific-research)
   
-  * [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
-    * [ ] [Awesome Dynamic Android Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-dynamic-android-malware-detection-scientific-research)
-    * [ ] [Awesome Static Android Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-static-android-malware-detection-scientific-research)
+    * [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
+      * [ ] [Awesome Dynamic Android Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-dynamic-android-malware-detection-scientific-research)
+      * [ ] [Awesome Static Android Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-static-android-malware-detection-scientific-research)
 
-  * [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-    * [ ] [Awesome Dynamic Linux Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-dynamic-linux-malware-detection-scientific-research) 
-    * [ ] [Awesome Static Linux Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-static-linux-malware-detection-scientific-research)
+    * [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+      * [ ] [Awesome Dynamic Linux Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-dynamic-linux-malware-detection-scientific-research) 
+      * [ ] [Awesome Static Linux Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-static-linux-malware-detection-scientific-research)
 
-  * [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
-    * [ ] [Awesome Dynamic Windows Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-dynamic-windows-malware-detection-scientific-research)
-    * [ ] [Awesome Static Windows Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-static-windows-malware-detection-scientific-research)
+    * [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+      * [ ] [Awesome Dynamic Windows Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-dynamic-windows-malware-detection-scientific-research)
+      * [ ] [Awesome Static Windows Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-static-windows-malware-detection-scientific-research)
 
 ---
 
