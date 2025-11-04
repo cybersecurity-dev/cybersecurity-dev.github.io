@@ -197,6 +197,15 @@ title: Awesome Lists
     * [ ] [Awesome Windows Vulnerability Research](https://github.com/cybersecurity-dev/awesome-windows-vulnerability-research)
 
 ---
+
+### Anomaly Detection
+
+  * [ ] [Awesome Network Anomaly Detection](https://github.com/cybersecurity-dev/awesome-network-anomaly-detection)
+
+#### Anomaly Detection Scientific Research
+  * [ ] [Awesome Time Series Anomaly Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-time-series-anomaly-detection-scientific-research)
+
+---
 ---
 
 ## [↑](#my--lists) Debugging
