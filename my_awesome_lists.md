@@ -66,6 +66,7 @@ title: Awesome Lists
  
  * [![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54)](https://en.wikipedia.org/wiki/Python_(programming_language))
    * [ ] [Awesome Python Programming Language](https://github.com/cybersecurity-dev/awesome-python-programming-language)
+   * [ ] [Awesome Python Style Guide](https://github.com/cybersecurity-dev/awesome-python-style-guide)
  
  * [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](https://en.wikipedia.org/wiki/Rust_(programming_language))
    * [ ] [Awesome Rust Programming Language](https://github.com/cybersecurity-dev/awesome-rust-programming-language)
