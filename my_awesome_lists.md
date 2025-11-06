@@ -133,9 +133,10 @@ title: Awesome Lists
 
 ---
 
-#### Malware Detection
+#### Malware Analysis/Detection
   * [ ] [Awesome Malware Traffic Analysis](https://github.com/cybersecurity-dev/awesome-malware-traffic-analysis)
   * [ ] [Awesome Online Malware Analysis Tools](https://github.com/cybersecurity-dev/awesome-online-malware-analysis-tools)
+  * [ ] [Awesome Static Windows Malware Analysis](https://github.com/cybersecurity-dev/awesome-static-windows-malware-analysis)
 
 ---
 
