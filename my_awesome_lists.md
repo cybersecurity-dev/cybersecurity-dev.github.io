@@ -76,6 +76,8 @@ title: Awesome Lists
 ### Scripting Language
  * [ ] [Awesome Bash Scripting Language](https://github.com/cybersecurity-dev/awesome-bash-scripting-language)
  * [ ] [Awesome Powershell Scripting Language](https://github.com/cybersecurity-dev/awesome-powershell-scripting-language)
+ * [ ] [Awesome Shell Style Guide](https://github.com/cybersecurity-dev/awesome-shell-style-guide) 
+ 
 
 ---
 
