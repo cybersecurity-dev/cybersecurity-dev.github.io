@@ -147,6 +147,7 @@ title: Awesome Lists
 #### Malware Analysis/Detection Scientific Research
   * [ ] [Awesome Advanced Persistent Threat Scientific Research](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat-scientific-research)
   * [ ] [Awesome Fileless Malware Scientific Research](https://github.com/cybersecurity-dev/awesome-fileless-malware-scientific-research)
+  * [ ] [Awesome Graph based Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-graph-based-malware-detection-scientific-research)
   * [ ] [Awesome Malware Traffic Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-malware-traffic-analysis-scientific-research)
   * [ ] [Awesome Metamorphic Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-metamorphic-malware-analysis-scientific-research)
   * [ ] [Awesome Polymorphic Malware Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-polymorphic-malware-analysis-scientific-research)
