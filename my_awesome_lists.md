@@ -224,6 +224,7 @@ title: Awesome Lists
   * Software Debugging in [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
     * [ ] [Awesome Linux Debuggers](https://github.com/cybersecurity-dev/awesome-linux-debuggers) 
       * [ ] [Awesome GDB (_GNU Debugger_)](https://github.com/cybersecurity-dev/awesome-gdb)
+      * [ ] [Awesome Ftrace](https://github.com/cybersecurity-dev/awesome-ftrace)
       * [ ] [Awesome ltrace](https://github.com/cybersecurity-dev/awesome-ltrace)
       * [ ] [Awesome Ptrace](https://github.com/cybersecurity-dev/awesome-ptrace)
       * [ ] [Awesome Strace](https://github.com/cybersecurity-dev/awesome-strace)
