@@ -14,6 +14,8 @@ title: Computer Science
 
 🎓 [Awesome Compiler Principles Techniques Tools](https://github.com/cybersecurity-dev/awesome-compiler-principles-techniques-tools)
 
+🎓 [Awesome Computer Organization and Architecture](https://github.com/cybersecurity-dev/awesome-computer-organization-and-architecture)
+
 🎓 [Awesome Programming Language Design](https://github.com/cybersecurity-dev/awesome-programming-language-design)
 
 ---
