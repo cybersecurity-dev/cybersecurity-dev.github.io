@@ -16,6 +16,7 @@ title: Awesome Lists
  * [ ] [Awesome Building and Implementing AI-Driven Solution](https://github.com/cybersecurity-dev/awesome-building-implementing-ai-driven-solution)
  * [ ] [Awesome Compiler Principles Techniques Tools](https://github.com/cybersecurity-dev/awesome-compiler-principles-techniques-tools)
  * [ ] [Awesome Linux Internals](https://github.com/cybersecurity-dev/awesome-linux-internals)
+ * [ ] [Awesome Memory Analysis](https://github.com/cybersecurity-dev/awesome-memory-analysis)
  * [ ] [Awesome NATS](https://github.com/cybersecurity-dev/awesome-nats)
  * [ ] [Awesome OS Development](https://github.com/cybersecurity-dev/awesome-os-development)
  * [ ] [Awesome PCAP Feature Extractor](https://github.com/cybersecurity-dev/awesome-pcap-feature-extractor)
