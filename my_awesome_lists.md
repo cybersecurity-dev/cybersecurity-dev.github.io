@@ -23,6 +23,7 @@ title: Awesome Lists
  * [ ] [Awesome Programming Language Design](https://github.com/cybersecurity-dev/awesome-programming-language-design)
  * [ ] [Awesome PyTorch](https://github.com/cybersecurity-dev/awesome-pytorch)
  * [ ] [Awesome PyTorch Geometric](https://github.com/cybersecurity-dev/awesome-pyg)
+ * [ ] [Awesome Scikit-learn](https://github.com/cybersecurity-dev/awesome-scikit-learn)
  * [ ] [Awesome Tensorflow](https://github.com/cybersecurity-dev/awesome-tensorflow)
  * [ ] [Awesome Virtual Infrastructures](https://github.com/cybersecurity-dev/awesome-virtual-infrastructures)
  * [ ] [Awesome Windows Internals](https://github.com/cybersecurity-dev/awesome-windows-internals)
