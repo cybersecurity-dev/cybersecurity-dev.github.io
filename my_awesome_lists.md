@@ -22,6 +22,7 @@ title: Awesome Lists
  * [ ] [Awesome PCAP Feature Extractor](https://github.com/cybersecurity-dev/awesome-pcap-feature-extractor)
  * [ ] [Awesome Programming Language Design](https://github.com/cybersecurity-dev/awesome-programming-language-design)
  * [ ] [Awesome PyTorch](https://github.com/cybersecurity-dev/awesome-pytorch)
+ * [ ] [Awesome PyTorch Geometric](https://github.com/cybersecurity-dev/awesome-pyg)
  * [ ] [Awesome Tensorflow](https://github.com/cybersecurity-dev/awesome-tensorflow)
  * [ ] [Awesome Virtual Infrastructures](https://github.com/cybersecurity-dev/awesome-virtual-infrastructures)
  * [ ] [Awesome Windows Internals](https://github.com/cybersecurity-dev/awesome-windows-internals)
