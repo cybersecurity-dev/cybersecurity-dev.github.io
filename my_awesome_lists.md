@@ -15,6 +15,7 @@ title: Awesome Lists
  * [ ] [Awesome Android Internals](https://github.com/cybersecurity-dev/awesome-android-internals)
  * [ ] [Awesome Building and Implementing AI-Driven Solution](https://github.com/cybersecurity-dev/awesome-building-implementing-ai-driven-solution)
  * [ ] [Awesome Compiler Principles Techniques Tools](https://github.com/cybersecurity-dev/awesome-compiler-principles-techniques-tools)
+ * [ ] [Awesome Dynamic Application Security Testing ](https://github.com/cybersecurity-dev/awesome-dast)
  * [ ] [Awesome Linux Internals](https://github.com/cybersecurity-dev/awesome-linux-internals)
  * [ ] [Awesome Memory Analysis](https://github.com/cybersecurity-dev/awesome-memory-analysis)
  * [ ] [Awesome NATS](https://github.com/cybersecurity-dev/awesome-nats)
