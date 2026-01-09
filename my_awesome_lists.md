@@ -27,6 +27,7 @@ title: Awesome Lists
  * [ ] [Awesome Scikit-learn](https://github.com/cybersecurity-dev/awesome-scikit-learn)
  * [ ] [Awesome Static Application Security Testing](https://github.com/cybersecurity-dev/awesome-sast)
  * [ ] [Awesome Tensorflow](https://github.com/cybersecurity-dev/awesome-tensorflow)
+ * [ ] [Awesome Time Series](https://github.com/cybersecurity-dev/awesome-time-series)
  * [ ] [Awesome Virtual Infrastructures](https://github.com/cybersecurity-dev/awesome-virtual-infrastructures)
  * [ ] [Awesome Windows Internals](https://github.com/cybersecurity-dev/awesome-windows-internals)
  * [ ] [Awesome Word2vec](https://github.com/cybersecurity-dev/awesome-word2vec)
