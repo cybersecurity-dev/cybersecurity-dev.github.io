@@ -14,6 +14,7 @@ title: Awesome Lists
  * [ ] [Awesome Advanced Threat Prevention](https://github.com/cybersecurity-dev/awesome-advanced-threat-prevention)
  * [ ] [Awesome Android Internals](https://github.com/cybersecurity-dev/awesome-android-internals)
  * [ ] [Awesome Building and Implementing AI-Driven Solution](https://github.com/cybersecurity-dev/awesome-building-implementing-ai-driven-solution)
+ * [ ] [Awesome Data Visualization](https://github.com/cybersecurity-dev/awesome-data-visualization)
  * [ ] [Awesome Compiler Principles Techniques Tools](https://github.com/cybersecurity-dev/awesome-compiler-principles-techniques-tools)
  * [ ] [Awesome Dynamic Application Security Testing ](https://github.com/cybersecurity-dev/awesome-dast)
  * [ ] [Awesome Information Theory](https://github.com/cybersecurity-dev/awesome-information-theory)
