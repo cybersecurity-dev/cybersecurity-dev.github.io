@@ -13,7 +13,6 @@ title: Awesome Lists
  
  * [ ] [Awesome Advanced Threat Prevention](https://github.com/cybersecurity-dev/awesome-advanced-threat-prevention)
  * [ ] [Awesome Android Internals](https://github.com/cybersecurity-dev/awesome-android-internals)
- * [ ] [Awesome Building and Implementing AI-Driven Solution](https://github.com/cybersecurity-dev/awesome-building-implementing-ai-driven-solution)
  * [ ] [Awesome Data Visualization](https://github.com/cybersecurity-dev/awesome-data-visualization)
  * [ ] [Awesome Compiler Principles Techniques Tools](https://github.com/cybersecurity-dev/awesome-compiler-principles-techniques-tools)
  * [ ] [Awesome Dynamic Application Security Testing ](https://github.com/cybersecurity-dev/awesome-dast)
@@ -24,15 +23,24 @@ title: Awesome Lists
  * [ ] [Awesome OS Development](https://github.com/cybersecurity-dev/awesome-os-development)
  * [ ] [Awesome PCAP Feature Extractor](https://github.com/cybersecurity-dev/awesome-pcap-feature-extractor)
  * [ ] [Awesome Programming Language Design](https://github.com/cybersecurity-dev/awesome-programming-language-design)
- * [ ] [Awesome PyTorch](https://github.com/cybersecurity-dev/awesome-pytorch)
- * [ ] [Awesome PyTorch Geometric](https://github.com/cybersecurity-dev/awesome-pyg)
- * [ ] [Awesome Scikit-learn](https://github.com/cybersecurity-dev/awesome-scikit-learn)
+ * [ ] [Awesome Regular Expression](https://github.com/cybersecurity-dev/awesome-regular-expression)
  * [ ] [Awesome Static Application Security Testing](https://github.com/cybersecurity-dev/awesome-sast)
- * [ ] [Awesome Tensorflow](https://github.com/cybersecurity-dev/awesome-tensorflow)
  * [ ] [Awesome Time Series](https://github.com/cybersecurity-dev/awesome-time-series)
  * [ ] [Awesome Virtual Infrastructures](https://github.com/cybersecurity-dev/awesome-virtual-infrastructures)
  * [ ] [Awesome Windows Internals](https://github.com/cybersecurity-dev/awesome-windows-internals)
  * [ ] [Awesome Word2vec](https://github.com/cybersecurity-dev/awesome-word2vec)
+
+---
+---
+
+## [↑](#my--lists) Artificial Intelligence
+* [ ] [Awesome Building and Implementing AI-Driven Solution](https://github.com/cybersecurity-dev/awesome-building-implementing-ai-driven-solution)
+
+### Frameworks
+* [ ] [Awesome PyTorch](https://github.com/cybersecurity-dev/awesome-pytorch)
+* [ ] [Awesome PyTorch Geometric](https://github.com/cybersecurity-dev/awesome-pyg)
+* [ ] [Awesome Scikit-learn](https://github.com/cybersecurity-dev/awesome-scikit-learn)
+* [ ] [Awesome Tensorflow](https://github.com/cybersecurity-dev/awesome-tensorflow)
 
 ---
 ---
