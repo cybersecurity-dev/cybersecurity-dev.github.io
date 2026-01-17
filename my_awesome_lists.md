@@ -22,6 +22,7 @@ title: Awesome Lists
  * [ ] [Awesome Memory Analysis](https://github.com/cybersecurity-dev/awesome-memory-analysis)
  * [ ] [Awesome NATS](https://github.com/cybersecurity-dev/awesome-nats)
  * [ ] [Awesome OS Development](https://github.com/cybersecurity-dev/awesome-os-development)
+ * [ ] [Awesome Parallel Computation](https://github.com/cybersecurity-dev/awesome-parallel-computation)
  * [ ] [Awesome PCAP Feature Extractor](https://github.com/cybersecurity-dev/awesome-pcap-feature-extractor)
  * [ ] [Awesome Programming Language Design](https://github.com/cybersecurity-dev/awesome-programming-language-design)
  * [ ] [Awesome Regular Expression](https://github.com/cybersecurity-dev/awesome-regular-expression)
