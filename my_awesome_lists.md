@@ -131,10 +131,12 @@ title: Awesome Lists
 * [ ] [Awesome Blue Teaming](https://github.com/cybersecurity-dev/awesome-blue-teaming)
 * [ ] [Awesome Bug Bounty Hunter](https://github.com/cybersecurity-dev/awesome-bug-bounty-hunter)
 * [ ] [Awesome Cryptography](https://github.com/cybersecurity-dev/awesome-cryptography)
+* [ ] [Awesome Dynamic Application Security Testing](https://github.com/cybersecurity-dev/awesome-dast)
 * [ ] [Awesome Fuzzing](https://github.com/cybersecurity-dev/awesome-fuzzing)
 * [ ] [Awesome OSINT (_Open Source Intelligence_)](https://github.com/cybersecurity-dev/awesome-open-source-intelligence)
 * [ ] [Awesome Purple Teaming](https://github.com/cybersecurity-dev/awesome-purple-teaming)
 * [ ] [Awesome Red Teaming](https://github.com/cybersecurity-dev/awesome-red-teaming)
+* [ ] [Awesome Static Application Security Testing](https://github.com/cybersecurity-dev/awesome-sast)
 * [ ] [Awesome Threat Modeling](https://github.com/cybersecurity-dev/awesome-threat-modeling)
 * [ ] [Awesome YARA](https://github.com/cybersecurity-dev/awesome-yara) 
 
