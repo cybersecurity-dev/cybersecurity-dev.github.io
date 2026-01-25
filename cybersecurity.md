@@ -10,6 +10,7 @@ title: Cybersecurity
 
 # [Cyber](https://simple.wikipedia.org/wiki/Cybersecurity)[Security](https://en.wikipedia.org/wiki/List_of_cybersecurity_information_technologies)
 
+* [MemoryDumper | Memory Dump Toolkit](https://github.com/cybersecurity-dev/MemoryDump-Toolkit)
 * [Metamorphic Malware Cookbook](https://github.com/cybersecurity-dev/Metamorphic-Malware-Cookbook)
 * [PCAP Feature Extractor Toolkit](https://github.com/cybersecurity-dev/PCAP-Toolkit)
 * [Polymorphic Malware Cookbook](https://github.com/cybersecurity-dev/Polymorphic-Malware-Cookbook)
