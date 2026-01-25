@@ -53,6 +53,7 @@ title: Awesome Lists
 ## [↑](#my--lists) Software Development
  * [ ] [Awesome API Architecture](https://github.com/cybersecurity-dev/awesome-api-architecture)
  * [ ] [Awesome CMake](https://github.com/cybersecurity-dev/awesome-cmake)
+ * [ ] [Awesome Defensive Programming](https://github.com/cybersecurity-dev/awesome-defensive-programming)
  * [ ] [Awesome Design Patterns](https://github.com/cybersecurity-dev/awesome-design-patterns)
  * [ ] [Awesome Network Programming](https://github.com/cybersecurity-dev/awesome-network-programming)
  * [ ] [Awesome GPU Programming](https://github.com/cybersecurity-dev/awesome-gpu-programming)
