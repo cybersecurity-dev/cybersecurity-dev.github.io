@@ -138,6 +138,7 @@ title: Awesome Lists
 * [ ] [Awesome Cryptography](https://github.com/cybersecurity-dev/awesome-cryptography)
 * [ ] [Awesome Dynamic Application Security Testing](https://github.com/cybersecurity-dev/awesome-dast)
 * [ ] [Awesome Fuzzing](https://github.com/cybersecurity-dev/awesome-fuzzing)
+* [ ] [Awesome Intrusion Detection System](https://github.com/cybersecurity-dev/awesome-intrusion-detection-system)
 * [ ] [Awesome Network Detection and Response](https://github.com/cybersecurity-dev/awesome-network-detection-and-response)
 * [ ] [Awesome OSINT (_Open Source Intelligence_)](https://github.com/cybersecurity-dev/awesome-open-source-intelligence)
 * [ ] [Awesome Purple Teaming](https://github.com/cybersecurity-dev/awesome-purple-teaming)
