@@ -11,7 +11,6 @@ title: Awesome Lists
 
 # My [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) Lists:
  
- * [ ] [Awesome Advanced Threat Prevention](https://github.com/cybersecurity-dev/awesome-advanced-threat-prevention)
  * [ ] [Awesome Android Internals](https://github.com/cybersecurity-dev/awesome-android-internals)
  * [ ] [Awesome Attack Tree](https://github.com/cybersecurity-dev/awesome-attack-tree)
  * [ ] [Awesome Data Visualization](https://github.com/cybersecurity-dev/awesome-data-visualization)
@@ -132,6 +131,7 @@ title: Awesome Lists
 ---
 
 ## [↑](#my--lists) Cybersecurity
+* [ ] [Awesome Advanced Threat Prevention](https://github.com/cybersecurity-dev/awesome-advanced-threat-prevention)
 * [ ] [Awesome Binary Exploitation](https://github.com/cybersecurity-dev/awesome-binary-exploitation)
 * [ ] [Awesome Blue Teaming](https://github.com/cybersecurity-dev/awesome-blue-teaming)
 * [ ] [Awesome Bug Bounty Hunter](https://github.com/cybersecurity-dev/awesome-bug-bounty-hunter)
