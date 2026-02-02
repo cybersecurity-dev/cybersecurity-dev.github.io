@@ -205,6 +205,7 @@ title: Awesome Lists
 ### Reverse Engineering
   
   * [ ] [Awesome Reverse Engineering](https://github.com/cybersecurity-dev/awesome-reverse-engineering)
+  * [ ] [Awesome Reverse Engineering Tools](https://github.com/cybersecurity-dev/awesome-reverse-engineering-tools)
   
   * [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
     * [ ] [Awesome Android Reverse Engineering](https://github.com/cybersecurity-dev/awesome-android-reverse-engineering)
