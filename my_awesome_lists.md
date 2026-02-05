@@ -16,6 +16,7 @@ title: Awesome Lists
  * [ ] [Awesome Data Visualization](https://github.com/cybersecurity-dev/awesome-data-visualization)
  * [ ] [Awesome Compiler Principles Techniques Tools](https://github.com/cybersecurity-dev/awesome-compiler-principles-techniques-tools)
  * [ ] [Awesome Dynamic Application Security Testing ](https://github.com/cybersecurity-dev/awesome-dast)
+ * [ ] [Awesome HTTP Protocol](https://github.com/cybersecurity-dev/awesome-http-protocol)
  * [ ] [Awesome Information Theory](https://github.com/cybersecurity-dev/awesome-information-theory)
  * [ ] [Awesome Linux Internals](https://github.com/cybersecurity-dev/awesome-linux-internals)
  * [ ] [Awesome Memory Analysis](https://github.com/cybersecurity-dev/awesome-memory-analysis)
