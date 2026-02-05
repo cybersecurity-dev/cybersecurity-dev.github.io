@@ -30,6 +30,7 @@ title: Awesome Lists
  * [ ] [Awesome Static Application Security Testing](https://github.com/cybersecurity-dev/awesome-sast)
  * [ ] [Awesome TCP Protocol](https://github.com/cybersecurity-dev/awesome-tcp-protocol)
  * [ ] [Awesome Time Series](https://github.com/cybersecurity-dev/awesome-time-series)
+ * [ ] [Awesome UDP Protocol](https://github.com/cybersecurity-dev/awesome-udp-protocol)
  * [ ] [Awesome Virtual Infrastructures](https://github.com/cybersecurity-dev/awesome-virtual-infrastructures)
  * [ ] [Awesome Windows Internals](https://github.com/cybersecurity-dev/awesome-windows-internals)
  * [ ] [Awesome Word2vec](https://github.com/cybersecurity-dev/awesome-word2vec)
