@@ -27,6 +27,7 @@ title: Awesome Lists
  * [ ] [Awesome Programming Language Design](https://github.com/cybersecurity-dev/awesome-programming-language-design)
  * [ ] [Awesome Regular Expression](https://github.com/cybersecurity-dev/awesome-regular-expression)
  * [ ] [Awesome Static Application Security Testing](https://github.com/cybersecurity-dev/awesome-sast)
+ * [ ] [Awesome TCP Protocol](https://github.com/cybersecurity-dev/awesome-tcp-protocol)
  * [ ] [Awesome Time Series](https://github.com/cybersecurity-dev/awesome-time-series)
  * [ ] [Awesome Virtual Infrastructures](https://github.com/cybersecurity-dev/awesome-virtual-infrastructures)
  * [ ] [Awesome Windows Internals](https://github.com/cybersecurity-dev/awesome-windows-internals)
