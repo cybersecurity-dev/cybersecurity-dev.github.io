@@ -7,20 +7,26 @@ title: Development Toolkit
   <img width="20%" src="./assets/ctdl4.png" alt="Cyber Threat Defence Lab">
 </a></p>
 
-# My [Development](https://en.wikipedia.org/wiki/Software_development) [Toolkits](https://en.wikipedia.org/wiki/Software_development_process)
+# My [Development](https://wikipedia.org/wiki/Software_development) [Toolkits](https://en.wikipedia.org/wiki/Software_development_process)
 
-## [Scripting Language](https://en.wikipedia.org/wiki/Scripting_language) [Toolkit](https://en.wikipedia.org/wiki/Toolchain)
+## [AI](https://wikipedia.org/wiki/Artificial_intelligence) [Toolkit](https://en.wikipedia.org/wiki/Toolchain)
+* [Data mining Toolkit](https://github.com/cybersecurity-dev/Data-mining-Toolkit)
+
+---
+
+
+## [Scripting Language](https://wikipedia.org/wiki/Scripting_language) Toolkit
 * [Bash Toolkit](https://github.com/cybersecurity-dev/Bash-Toolkit)
 * [PowerShell Toolkit](https://github.com/cybersecurity-dev/PowerShell-Toolkit)
 
 ---
 
-## [OS](https://en.wikipedia.org/wiki/Operating_system) [Toolkit](https://en.wikipedia.org/wiki/Toolchain)
+## [OS](https://wikipedia.org/wiki/Operating_system) Toolkit
 * [FreeBSD Toolkit](https://github.com/cybersecurity-dev/FreeBSD-Toolkit)
 
 ---
 
-## [Programming Language](https://en.wikipedia.org/wiki/Programming_language) [Toolkit](https://en.wikipedia.org/wiki/Toolchain)
+## [Programming Language](https://wikipedia.org/wiki/Programming_language) Toolkit
 * [Assembly Development Toolkit](https://github.com/cybersecurity-dev/Assembly-Toolkit)
 * [C Development Toolkit](https://github.com/cybersecurity-dev/C-Toolkit)
 * [C++ Development Toolkit](https://github.com/cybersecurity-dev/Cpp-Toolkit)
@@ -32,12 +38,12 @@ title: Development Toolkit
 
 ---
 
-## [PaaS](https://en.wikipedia.org/wiki/Platform_as_a_service) [Toolkit](https://en.wikipedia.org/wiki/Toolchain)
+## [PaaS](https://wikipedia.org/wiki/Platform_as_a_service) Toolkit
 * [Docker Toolkit](https://github.com/cybersecurity-dev/Docker-Toolkit)
 
 ---
 
-## [Database](https://en.wikipedia.org/wiki/Database) [Toolkit](https://en.wikipedia.org/wiki/Toolchain)
+## [Database](https://wikipedia.org/wiki/Database) Toolkit
 * [RDBMS Toolkit](https://github.com/cybersecurity-dev/RDBMS-Toolkit)
 
 ---
