@@ -42,6 +42,7 @@ title: Awesome Lists
 * [ ] [Awesome Building and Implementing AI-Driven Solution](https://github.com/cybersecurity-dev/awesome-building-implementing-ai-driven-solution)
 * [ ] [Awesome Deep Learning](https://github.com/cybersecurity-dev/awesome-deep-learning)
 * [ ] [Awesome Machine Learning](https://github.com/cybersecurity-dev/awesome-machine-learning)
+* [ ] [Awesome Model Context Protocol](https://github.com/cybersecurity-dev/awesome-model-context-protocol)
 
 ### Frameworks
 * [ ] [Awesome PyTorch](https://github.com/cybersecurity-dev/awesome-pytorch)
