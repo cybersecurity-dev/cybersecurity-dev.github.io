@@ -15,8 +15,9 @@ header_pages:
   - computer_science.md
   - cybersecurity.md
   - development_toolkit.md
-  - online_malware_anaysis_tools.md
+  - reverse_engineering_tools.md
   - vulnerability_research.md
   - threat_modeling.md
+  - online_malware_anaysis_tools.md
   - cybersecurity_in_belgium.md
   - aboutme.md
