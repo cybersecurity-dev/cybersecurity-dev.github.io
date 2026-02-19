@@ -7,7 +7,7 @@ title: Cybersecurity in Belgium
 * [BruCON](https://www.brucon.org/)
 
 ## **`CTF`**
-* [Cyber Security Challenge Belgium | Test Your Skills](https://www.cybersecuritychallenge.be/)
+* [Cyber Security Challenge Belgium - Test Your Skills](https://www.cybersecuritychallenge.be/)
 
 ## **`Education`**
 
