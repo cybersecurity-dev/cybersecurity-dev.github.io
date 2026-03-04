@@ -3,26 +3,39 @@ layout: default
 title: Cybersecurity in Belgium
 ---
 
+
+## **`Community`**
+* [Cybersecurity Café Limburg](https://www.cybersecuritycafelimburg.be/)
+* [OWASP Belgium](https://owasp.org/www-chapter-belgium/)
+
+
 ## **`Conference`**
 * [BruCON](https://www.brucon.org/)
 
+
 ## **`CTF`**
-* [Cyber Security Challenge Belgium - Test Your Skills](https://www.cybersecuritychallenge.be/)
+* [Cyber Security Challenge Belgium | Test Your Skills](https://www.cybersecuritychallenge.be/)
+
 
 ## **`Education`**
 
 * [KU Leuven - Master of Cybersecurity](https://www.kuleuven.be/programmes/master-cybersecurity)
+* [ULB - Master in cybersecurity](https://www.ulb.be/en/programme/m-secuc)
 
 ## **`Events`**
 * [Cybersecurity Bites - cybersecurity-bites.be](https://cybersecurity-bites.be/events/)
 * [Cybersecurity Research - cybersecurity-research.be](https://cybersecurity-research.be/events/)
 * [COSIC](https://www.esat.kuleuven.be/cosic/?post_type=tribe_events)
+* [Davinsi Labs](https://www.davinsi.com/en/events)
 * [DistriNet](https://distrinet.cs.kuleuven.be/events/events)
 * [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/events)
+* [ULB Cybersecurity Research Center Seminars](https://cybersecurity.ulb.ac.be/category/news/)
 
 ## **`Industry`**
 * [Approach Cyber](https://www.approach-cyber.com/)
+* [Crimson7](https://www.crimson7.io/)
 * [Cudeso.be](https://cudeso.be/)
+* [Davinsi Labs](https://www.davinsi.com/)
 * [Easi](https://easi.net/)
 * [Focal Point srl](https://focalpoint-sprl.be/) - Cyber Security Training, Services and Consulting.
 * [Guardsquare](https://www.guardsquare.com/)
@@ -37,6 +50,8 @@ title: Cybersecurity in Belgium
   - [COSIC](https://www.esat.kuleuven.be/cosic/)
   - [DistriNet](https://distrinet.cs.kuleuven.be/)
 * [National Crisis Center](https://crisiscenter.be/en)
+* [TRAIL - TRusted AI Labs](https://trail.ac/en/)
+* [ULB Cybersecurity Research Center](https://cybersecurity.ulb.ac.be/)
 
 ## **`News`** (_`RSS`_)
 * [Cybersecurity Research - cybersecurity-research.be](https://cybersecurity-research.be/news/)
