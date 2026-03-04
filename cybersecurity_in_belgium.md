@@ -14,7 +14,7 @@ title: Cybersecurity in Belgium
 
 
 ## **`CTF`**
-* [Cyber Security Challenge Belgium | Test Your Skills](https://www.cybersecuritychallenge.be/)
+* [Cyber Security Challenge Belgium - Test Your Skills](https://www.cybersecuritychallenge.be/)
 
 
 ## **`Education`**
