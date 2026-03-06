@@ -11,13 +11,14 @@ author: PhD Researcher
 
 header_pages:
   - index.html
-  - my_awesome_lists.md
   - computer_science.md
   - cybersecurity.md
+  - malware_analysis_resources.md
   - development_toolkit.md
   - reverse_engineering_tools.md
   - vulnerability_research.md
   - threat_modeling.md
   - online_malware_anaysis_tools.md
   - cybersecurity_in_belgium.md
+  - my_awesome_lists.md
   - aboutme.md
