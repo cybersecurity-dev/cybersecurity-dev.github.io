@@ -14,11 +14,12 @@ header_pages:
   - computer_science.md
   - cybersecurity.md
   - malware_analysis_resources.md
-  - development_toolkit.md
   - reverse_engineering_tools.md
+  - online_malware_anaysis_tools.md
+  - cybersecurity_resources.md
   - vulnerability_research.md
   - threat_modeling.md
-  - online_malware_anaysis_tools.md
   - cybersecurity_in_belgium.md
+  - development_toolkit.md
   - my_awesome_lists.md
   - aboutme.md
