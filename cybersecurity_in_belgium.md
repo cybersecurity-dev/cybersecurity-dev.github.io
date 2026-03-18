@@ -5,6 +5,7 @@ title: Cybersecurity in Belgium
 
 
 ## **`Community`**
+* [BSides Limburg](https://www.bsides-limburg.be/)
 * [Cybersecurity Café Limburg](https://www.cybersecuritycafelimburg.be/)
 * [OWASP Belgium](https://owasp.org/www-chapter-belgium/)
 
@@ -37,14 +38,20 @@ title: Cybersecurity in Belgium
 * [Cudeso.be](https://cudeso.be/)
 * [Davinsi Labs](https://www.davinsi.com/)
 * [Easi](https://easi.net/)
-* [Focal Point srl](https://focalpoint-sprl.be/) - Cyber Security Training, Services and Consulting.
+* [Focal Point srl](https://focalpoint-sprl.be/)
 * [Guardsquare](https://www.guardsquare.com/)
 * [LSEC - Leaders In Security](https://www.digitalsecuritycatalyst.com/)
+* [Orange Cyberdefense Belgium](https://www.orangecyberdefense.com/be/)
 * [Proximus Ada](https://www.proximus-ada.com/)
+* [Resilix](https://www.resilix.be/)
+* [Secutec](https://secutec.com/)
+* [SecWise](https://secwise.be/)
+* [Sopra Steria Belgium](https://www.soprasteria.be/)
 * [SpotIT](https://www.spotit.be/)
 * [Toreon](https://www.toreon.com/)
 
 ## **`Institution`**
+* [Data Protection Institute](https://www.dp-institute.eu/)
 * [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/)
 * KU Leuven
   - [COSIC](https://www.esat.kuleuven.be/cosic/)
@@ -52,10 +59,19 @@ title: Cybersecurity in Belgium
 * [National Crisis Center](https://crisiscenter.be/en)
 * [TRAIL - TRusted AI Labs](https://trail.ac/en/)
 * [ULB Cybersecurity Research Center](https://cybersecurity.ulb.ac.be/)
+* [VUB's Cyber and Data Security Lab](https://cdsl.research.vub.be/)
 
 ## **`News`** (_`RSS`_)
+* [COSIC](https://www.esat.kuleuven.be/cosic/news/)
 * [Cybersecurity Research - cybersecurity-research.be](https://cybersecurity-research.be/news/)
+* [Davinsi Labs](https://www.davinsi.com/news)
+* [DistriNet](https://distrinet.cs.kuleuven.be/news)
+* [Guardsquare](https://www.guardsquare.com/blog)
 * [National Crisis Center](https://crisiscenter.be/en/newsroom)
-* [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/news)
 * [Proximus Ada](https://www.proximus-ada.com/blog/)
+* [Sopra Steria Belgium](https://www.soprasteria.be/newsroom/blog)
+* [SpotIT](https://www.spotit.be/en/resources/blogs-news/)
+* [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/news)
+* [Toreon](https://www.toreon.com/news/)
+
 
