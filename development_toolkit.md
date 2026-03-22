@@ -14,7 +14,6 @@ title: Development Toolkit
 
 ---
 
-
 ## [Scripting Language](https://wikipedia.org/wiki/Scripting_language) Toolkit
 * [Bash Toolkit](https://github.com/cybersecurity-dev/Bash-Toolkit)
 * [PowerShell Toolkit](https://github.com/cybersecurity-dev/PowerShell-Toolkit)
@@ -22,7 +21,16 @@ title: Development Toolkit
 ---
 
 ## [OS](https://wikipedia.org/wiki/Operating_system) Toolkit
+* [APK Static Toolkit](https://github.com/cybersecurity-dev/APK-Static-Toolkit)
+* [ELF Static Toolkit](https://github.com/cybersecurity-dev/ELF-Static-Toolkit)
 * [FreeBSD Toolkit](https://github.com/cybersecurity-dev/FreeBSD-Toolkit)
+* [PE Static Toolkit](https://github.com/cybersecurity-dev/PE-Static-Toolkit)
+
+---
+
+## Low-level [Programming](https://wikipedia.org/wiki/Low-level_programming_language) Toolkit
+* [Linux Driver Development Toolkit](https://github.com/cybersecurity-dev/linux-driver-development-toolkit)
+* [Linux System Programming Toolkit](https://github.com/cybersecurity-dev/linux-system-programming-toolkit)
 
 ---
 
