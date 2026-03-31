@@ -19,11 +19,13 @@ title: Cybersecurity in Belgium
 
 
 ## **`Education`**
-
+* [BeCode](https://becode.org/en/job-seekers/trainings/cybersecurity)
 * [KU Leuven - Master of Cybersecurity](https://www.kuleuven.be/programmes/master-cybersecurity)
 * [ULB - Master in cybersecurity](https://www.ulb.be/en/programme/m-secuc)
 
+
 ## **`Events`**
+* [Aikido Security](https://luma.com/aikidosecurity)
 * [Cybersecurity Bites - cybersecurity-bites.be](https://cybersecurity-bites.be/events/)
 * [Cybersecurity Research - cybersecurity-research.be](https://cybersecurity-research.be/events/)
 * [COSIC](https://www.esat.kuleuven.be/cosic/?post_type=tribe_events)
@@ -33,6 +35,7 @@ title: Cybersecurity in Belgium
 * [ULB Cybersecurity Research Center Seminars](https://cybersecurity.ulb.ac.be/category/news/)
 
 ## **`Industry`**
+* [Aikido Security](https://www.aikido.dev/)
 * [Approach Cyber](https://www.approach-cyber.com/)
 * [Crimson7](https://www.crimson7.io/)
 * [Cudeso.be](https://cudeso.be/)
@@ -58,10 +61,12 @@ title: Cybersecurity in Belgium
   - [DistriNet](https://distrinet.cs.kuleuven.be/)
 * [National Crisis Center](https://crisiscenter.be/en)
 * [TRAIL - TRusted AI Labs](https://trail.ac/en/)
+* [UCLouvain - ICTEAM](https://www.uclouvain.be/en/research-institutes/icteam)
 * [ULB Cybersecurity Research Center](https://cybersecurity.ulb.ac.be/)
 * [VUB's Cyber and Data Security Lab](https://cdsl.research.vub.be/)
 
 ## **`News`** (_`RSS`_)
+* [Aikido Security](https://www.aikido.dev/blog)
 * [COSIC](https://www.esat.kuleuven.be/cosic/news/)
 * [Cybersecurity Research - cybersecurity-research.be](https://cybersecurity-research.be/news/)
 * [Davinsi Labs](https://www.davinsi.com/news)
