@@ -3,7 +3,6 @@ layout: default
 title: Cybersecurity in Belgium
 ---
 
-
 ## **`Community`**
 * [BSides Limburg](https://www.bsides-limburg.be/)
 * [Cybersecurity Café Limburg](https://www.cybersecuritycafelimburg.be/)
@@ -44,6 +43,7 @@ title: Cybersecurity in Belgium
 * [Focal Point srl](https://focalpoint-sprl.be/)
 * [Guardsquare](https://www.guardsquare.com/)
 * [LSEC - Leaders In Security](https://www.digitalsecuritycatalyst.com/)
+* [Nexova](https://www.nexovagroup.eu/)
 * [Orange Cyberdefense Belgium](https://www.orangecyberdefense.com/be/)
 * [Proximus Ada](https://www.proximus-ada.com/)
 * [Resilix](https://www.resilix.be/)
@@ -51,15 +51,17 @@ title: Cybersecurity in Belgium
 * [SecWise](https://secwise.be/)
 * [Sopra Steria Belgium](https://www.soprasteria.be/)
 * [SpotIT](https://www.spotit.be/)
+* [Starion](https://www.stariongroup.eu/)
 * [Toreon](https://www.toreon.com/)
 
 ## **`Institution`**
+* [CETIC](https://www.cetic.be/)
 * [Data Protection Institute](https://www.dp-institute.eu/)
-* [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/)
 * KU Leuven
   - [COSIC](https://www.esat.kuleuven.be/cosic/)
   - [DistriNet](https://distrinet.cs.kuleuven.be/)
 * [National Crisis Center](https://crisiscenter.be/en)
+* [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/)
 * [TRAIL - TRusted AI Labs](https://trail.ac/en/)
 * [UCLouvain - ICTEAM](https://www.uclouvain.be/en/research-institutes/icteam)
 * [ULB Cybersecurity Research Center](https://cybersecurity.ulb.ac.be/)
@@ -73,10 +75,9 @@ title: Cybersecurity in Belgium
 * [DistriNet](https://distrinet.cs.kuleuven.be/news)
 * [Guardsquare](https://www.guardsquare.com/blog)
 * [National Crisis Center](https://crisiscenter.be/en/newsroom)
+* [Nexova](https://www.nexovagroup.eu/news)
 * [Proximus Ada](https://www.proximus-ada.com/blog/)
 * [Sopra Steria Belgium](https://www.soprasteria.be/newsroom/blog)
 * [SpotIT](https://www.spotit.be/en/resources/blogs-news/)
 * [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/news)
 * [Toreon](https://www.toreon.com/news/)
-
-
