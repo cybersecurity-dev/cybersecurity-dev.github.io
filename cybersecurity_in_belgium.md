@@ -11,7 +11,8 @@ title: Cybersecurity in Belgium
 
 ## **`Conference`**
 * [BruCON](https://www.brucon.org/)
-
+* [Course on Cryptography and Cybersecurity by COSIC](https://www.esat.kuleuven.be/cosic/events/cosic-course/)
+* [SecAppDev](https://secappdev.org/)
 
 ## **`CTF`**
 * [Cyber Security Challenge Belgium - Test Your Skills](https://www.cybersecuritychallenge.be/)
@@ -53,9 +54,11 @@ title: Cybersecurity in Belgium
 * [SpotIT](https://www.spotit.be/)
 * [Starion](https://www.stariongroup.eu/)
 * [Toreon](https://www.toreon.com/)
+* [Win](https://www.win.be/)
 
 ## **`Institution`**
 * [CETIC](https://www.cetic.be/)
+* [Cybersecurity in Flanders](https://www.cybersecurityinvlaanderen.be/)
 * [Data Protection Institute](https://www.dp-institute.eu/)
 * KU Leuven
   - [COSIC](https://www.esat.kuleuven.be/cosic/)
@@ -66,6 +69,7 @@ title: Cybersecurity in Belgium
 * [UCLouvain - ICTEAM](https://www.uclouvain.be/en/research-institutes/icteam)
 * [ULB Cybersecurity Research Center](https://cybersecurity.ulb.ac.be/)
 * [VUB's Cyber and Data Security Lab](https://cdsl.research.vub.be/)
+* [Walloon cybersecurity](https://walloniacybersecurity.be/)
 
 ## **`News`** (_`RSS`_)
 * [Aikido Security](https://www.aikido.dev/blog)
@@ -81,3 +85,21 @@ title: Cybersecurity in Belgium
 * [SpotIT](https://www.spotit.be/en/resources/blogs-news/)
 * [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/news)
 * [Toreon](https://www.toreon.com/news/)
+
+## **`JOBS`**
+* [Aikido Security](https://www.aikido.dev/company/careers)
+* [Approach Cyber](https://www.approach-cyber.com/join-us/)
+* [Crimson7](https://www.crimson7.io/careers)
+* [Davinsi Labs](https://www.davinsi.com/en/careers)
+* [Guardsquare](https://www.guardsquare.com/careers)
+* [Nexova](https://www.nexovagroup.eu/en/job-vacancies)
+* [Orange Cyberdefense Belgium](https://jobs.orangecyberdefense.com/pages/orange-cyberdefense-belgium)
+* [Proximus Ada](https://www.proximus-ada.com/join-us/)
+* [Resilix](https://www.resilix.be/jobs)
+* [Secutec](https://secutec.com/en/careers)
+* [SecWise](https://secwise.be/jobs/#vacancies)
+* [Sopra Steria Belgium](https://careers.soprasteria.be/jobs)
+* [SpotIT](https://jobs.spotit.be/#jobs)
+* [Starion](https://www.stariongroup.eu/careers/job-search/)
+* [Toreon](https://www.toreon.com/jobs/#vacancies)
+* [Win](https://www.win.be/nl/jobs)
