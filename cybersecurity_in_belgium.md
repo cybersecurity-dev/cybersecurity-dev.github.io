@@ -5,35 +5,35 @@ title: Cybersecurity in Belgium
 
 <p align="center">
     <a href="https://wikipedia.org/wiki/Belgium">
-        <img width="10%" src="./assets/Belgium.svg">
+        <img width="30%" src="./assets/Belgium.svg">
     </a>
 </p>
 
 # Cyber Security in _**`Belgium`**_
 
 
-## **`Community`**
+## `Community`
 * [BSides Limburg](https://www.bsides-limburg.be/)
 * [Cybersecurity Café Limburg](https://www.cybersecuritycafelimburg.be/)
 * [OWASP Belgium](https://owasp.org/www-chapter-belgium/)
 
 
-## **`Conference`**
+## `Conference`
 * [BruCON](https://www.brucon.org/)
 * [Course on Cryptography and Cybersecurity by COSIC](https://www.esat.kuleuven.be/cosic/events/cosic-course/)
 * [SecAppDev](https://secappdev.org/)
 
-## **`CTF`**
+## `CTF`
 * [Cyber Security Challenge Belgium - Test Your Skills](https://www.cybersecuritychallenge.be/)
 
 
-## **`Education`**
+## `Education`
 * [BeCode](https://becode.org/en/job-seekers/trainings/cybersecurity)
 * [KU Leuven - Master of Cybersecurity](https://www.kuleuven.be/programmes/master-cybersecurity)
 * [ULB - Master in cybersecurity](https://www.ulb.be/en/programme/m-secuc)
 
 
-## **`Events`**
+## `Events`
 * [Aikido Security](https://luma.com/aikidosecurity)
 * [Cybersecurity Bites - cybersecurity-bites.be](https://cybersecurity-bites.be/events/)
 * [Cybersecurity Research - cybersecurity-research.be](https://cybersecurity-research.be/events/)
@@ -43,7 +43,7 @@ title: Cybersecurity in Belgium
 * [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/events)
 * [ULB Cybersecurity Research Center Seminars](https://cybersecurity.ulb.ac.be/category/news/)
 
-## **`Industry`**
+## `Industry`
 * [Aikido Security](https://www.aikido.dev/)
 * [Approach Cyber](https://www.approach-cyber.com/)
 * [Crimson7](https://www.crimson7.io/)
@@ -65,7 +65,7 @@ title: Cybersecurity in Belgium
 * [Toreon](https://www.toreon.com/)
 * [Win](https://www.win.be/)
 
-## **`Institution`**
+## `Institution`
 * [CETIC](https://www.cetic.be/)
 * [Cybersecurity in Flanders](https://www.cybersecurityinvlaanderen.be/)
 * [Data Protection Institute](https://www.dp-institute.eu/)
@@ -80,7 +80,7 @@ title: Cybersecurity in Belgium
 * [VUB's Cyber and Data Security Lab](https://cdsl.research.vub.be/)
 * [Walloon cybersecurity](https://walloniacybersecurity.be/)
 
-## **`News`** (_`RSS`_)
+## `News` (_`RSS`_)
 * [Aikido Security](https://www.aikido.dev/blog)
 * [COSIC](https://www.esat.kuleuven.be/cosic/news/)
 * [Cybersecurity Research - cybersecurity-research.be](https://cybersecurity-research.be/news/)
@@ -95,7 +95,7 @@ title: Cybersecurity in Belgium
 * [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/news)
 * [Toreon](https://www.toreon.com/news/)
 
-## **`JOBS`**
+## `JOBS`
 * [Aikido Security](https://www.aikido.dev/company/careers)
 * [Approach Cyber](https://www.approach-cyber.com/join-us/)
 * [Crimson7](https://www.crimson7.io/careers)
