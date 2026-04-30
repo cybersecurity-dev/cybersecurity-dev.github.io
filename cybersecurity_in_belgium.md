@@ -3,15 +3,14 @@ layout: default
 title: Cybersecurity in Belgium
 ---
 
-<div align="center">
-    <p align="center">
-        <a href="https://cppreference.com/">
-          <img width="10%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Belgium.svg" />
-        </a>
-    </p>
+<p align="center">
+    <a href="https://wikipedia.org/wiki/Belgium">
+        <img width="10%" src="./assets/Belgium.svg">
+    </a>
+</p>
 
 # Cyber Security in _**`Belgium`**_
-</div>
+
 
 ## **`Community`**
 * [BSides Limburg](https://www.bsides-limburg.be/)
