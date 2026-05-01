@@ -9,8 +9,7 @@ title: Cybersecurity in Belgium
     </a>
 </p>
 
-# Cyber Security in _**`Belgium`**_
-
+<h1 align="center">Cyber Security in <em><strong><code>Belgium</code></strong></em> </h1>
 
 ## `Community`
 * [BSides Limburg](https://www.bsides-limburg.be/)
