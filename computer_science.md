@@ -7,7 +7,9 @@ title: Computer Science
   <img width="20%" src="./assets/ctdl.jpeg" alt="Cyber Threat Defence Lab">
 </a></p>
 
-# [Computer Science](https://en.wikipedia.org/wiki/Computer_science)
+<h1 align="center">
+  <a href="https://wikipedia.org/wiki/Computer_science" target="_blank"><em><strong><code>Computer Science</code></strong></em></a>
+</h1>
 
 
 🎓 [Awesome Automata Theory](https://github.com/cybersecurity-dev/awesome-automata-theory)
