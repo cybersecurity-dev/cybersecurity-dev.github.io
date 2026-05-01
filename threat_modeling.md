@@ -3,7 +3,8 @@ layout: default
 title: Threat Modeling
 ---
 
-## Threat Modeling
+<h1 align="center"><em><strong><code>Threat</code></strong></em> Modeling</h1>
+
 - [Microsoft Threat Modeling](https://www.microsoft.com/securityengineering/sdl/threatmodeling)
 - [OWASP Threat Modeling](https://owasp.org/www-community/Threat_Modeling)
 
