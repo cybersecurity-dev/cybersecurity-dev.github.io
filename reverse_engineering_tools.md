@@ -3,6 +3,8 @@ layout: default
 title: Reverse Engineering Tools 
 ---
 
+# Reverse Engineering Tools
+
 ## Encoding / Decoding
 
 ### [CyberChef](https://gchq.github.io/CyberChef/)
