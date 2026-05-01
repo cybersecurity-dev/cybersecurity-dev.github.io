@@ -3,7 +3,7 @@ layout: default
 title: Reverse Engineering Tools 
 ---
 
-# Reverse Engineering Tools
+<h1 align="center"><em><strong><code>Reverse Engineering</code></strong></em> Tools</h1>
 
 ## Encoding / Decoding
 
