@@ -22,8 +22,9 @@ title: Cybersecurity in Belgium
 * [Course on Cryptography and Cybersecurity by COSIC](https://www.esat.kuleuven.be/cosic/events/cosic-course/)
 * [SecAppDev](https://secappdev.org/)
 
+
 ## **`CTF`**
-* [Cyber Security Challenge Belgium | Test Your Skills](https://www.cybersecuritychallenge.be/)
+* [Cyber Security Challenge Belgium - Test Your Skills](https://www.cybersecuritychallenge.be/)
 
 
 ## **`Education`**
@@ -43,7 +44,9 @@ title: Cybersecurity in Belgium
 * [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/events)
 * [ULB Cybersecurity Research Center Seminars](https://cybersecurity.ulb.ac.be/category/news/)
 
+
 ## **`Industry`**
+* [Agoria](https://www.agoria.be/)
 * [Aikido Security](https://www.aikido.dev/)
 * [Approach Cyber](https://www.approach-cyber.com/)
 * [Crimson7](https://www.crimson7.io/)
@@ -52,6 +55,7 @@ title: Cybersecurity in Belgium
 * [Easi](https://easi.net/)
 * [Focal Point srl](https://focalpoint-sprl.be/)
 * [Guardsquare](https://www.guardsquare.com/)
+* [KEYES](https://www.keyes.eu/)
 * [LSEC - Leaders In Security](https://www.digitalsecuritycatalyst.com/)
 * [Netleaf](https://www.netleaf.be/)
 * [Nexova](https://www.nexovagroup.eu/)
@@ -66,6 +70,7 @@ title: Cybersecurity in Belgium
 * [Toreon](https://www.toreon.com/)
 * [Wavestone](https://www.wavestone.com/fr/locations/belgium/)
 * [Win](https://www.win.be/)
+
 
 ## **`Institution`**
 * [CETIC](https://www.cetic.be/)
@@ -83,6 +88,7 @@ title: Cybersecurity in Belgium
 * [VUB's Cyber and Data Security Lab](https://cdsl.research.vub.be/)
 * [Walloon cybersecurity](https://walloniacybersecurity.be/)
 
+
 ## **`News`** (_`RSS`_)
 * [Aikido Security](https://www.aikido.dev/blog)
 * [COSIC](https://www.esat.kuleuven.be/cosic/news/)
@@ -99,12 +105,15 @@ title: Cybersecurity in Belgium
 * [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/news)
 * [Toreon](https://www.toreon.com/news/)
 
+
 ## **`JOBS`**
+* [Agoria](https://www.agoria.be/en/jobs)
 * [Aikido Security](https://www.aikido.dev/company/careers)
 * [Approach Cyber](https://www.approach-cyber.com/join-us/)
 * [Crimson7](https://www.crimson7.io/careers)
 * [Davinsi Labs](https://www.davinsi.com/en/careers)
 * [Guardsquare](https://www.guardsquare.com/careers)
+* [KEYES](https://nrbcareers.com/find-my-job?jobs-c8f45e75%5Bcountry%5D%5B%5D=BE&jobs-c8f45e75%5Bsearch%5D=security)
 * [Netleaf](https://www.netleaf.be/jobs/)
 * [Nexova](https://www.nexovagroup.eu/en/job-vacancies)
 * [Orange Cyberdefense Belgium](https://jobs.orangecyberdefense.com/pages/orange-cyberdefense-belgium)
