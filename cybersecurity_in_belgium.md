@@ -22,7 +22,6 @@ title: Cybersecurity in Belgium
 * [Course on Cryptography and Cybersecurity by COSIC](https://www.esat.kuleuven.be/cosic/events/cosic-course/)
 * [SecAppDev](https://secappdev.org/)
 
-
 ## **`CTF`**
 * [Cyber Security Challenge Belgium - Test Your Skills](https://www.cybersecuritychallenge.be/)
 
@@ -44,7 +43,6 @@ title: Cybersecurity in Belgium
 * [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/events)
 * [ULB Cybersecurity Research Center Seminars](https://cybersecurity.ulb.ac.be/category/news/)
 
-
 ## **`Industry`**
 * [Agoria](https://www.agoria.be/)
 * [Aikido Security](https://www.aikido.dev/)
@@ -59,18 +57,20 @@ title: Cybersecurity in Belgium
 * [LSEC - Leaders In Security](https://www.digitalsecuritycatalyst.com/)
 * [Netleaf](https://www.netleaf.be/)
 * [Nexova](https://www.nexovagroup.eu/)
+* [NGRAVE](https://ngrave.io/)
+* [nomios](https://www.nomios.be/en/security/)
 * [Orange Cyberdefense Belgium](https://www.orangecyberdefense.com/be/)
 * [Proximus Ada](https://www.proximus-ada.com/)
 * [Resilix](https://www.resilix.be/)
 * [Secutec](https://secutec.com/)
 * [SecWise](https://secwise.be/)
+* [Sirris](https://www.sirris.be/)
 * [Sopra Steria Belgium](https://www.soprasteria.be/)
 * [SpotIT](https://www.spotit.be/)
 * [Starion](https://www.stariongroup.eu/)
 * [Toreon](https://www.toreon.com/)
 * [Wavestone](https://www.wavestone.com/fr/locations/belgium/)
 * [Win](https://www.win.be/)
-
 
 ## **`Institution`**
 * [CETIC](https://www.cetic.be/)
@@ -85,9 +85,9 @@ title: Cybersecurity in Belgium
 * [TRAIL - TRusted AI Labs](https://trail.ac/en/)
 * [UCLouvain - ICTEAM](https://www.uclouvain.be/en/research-institutes/icteam)
 * [ULB Cybersecurity Research Center](https://cybersecurity.ulb.ac.be/)
+* [VSSE (_Veiligheid van de Staat-La Sûreté de l'Etat_)](https://www.vsse.be/)
 * [VUB's Cyber and Data Security Lab](https://cdsl.research.vub.be/)
 * [Walloon cybersecurity](https://walloniacybersecurity.be/)
-
 
 ## **`News`** (_`RSS`_)
 * [Aikido Security](https://www.aikido.dev/blog)
@@ -105,7 +105,6 @@ title: Cybersecurity in Belgium
 * [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/news)
 * [Toreon](https://www.toreon.com/news/)
 
-
 ## **`JOBS`**
 * [Agoria](https://www.agoria.be/en/jobs)
 * [Aikido Security](https://www.aikido.dev/company/careers)
@@ -116,11 +115,13 @@ title: Cybersecurity in Belgium
 * [KEYES](https://nrbcareers.com/find-my-job?jobs-c8f45e75%5Bcountry%5D%5B%5D=BE&jobs-c8f45e75%5Bsearch%5D=security)
 * [Netleaf](https://www.netleaf.be/jobs/)
 * [Nexova](https://www.nexovagroup.eu/en/job-vacancies)
+* [Nomios](https://jobs.nomios.com/?jobs-c88dea0d%5Btab%5D=BE)
 * [Orange Cyberdefense Belgium](https://jobs.orangecyberdefense.com/pages/orange-cyberdefense-belgium)
 * [Proximus Ada](https://www.proximus-ada.com/join-us/)
 * [Resilix](https://www.resilix.be/jobs)
 * [Secutec](https://secutec.com/en/careers)
 * [SecWise](https://secwise.be/jobs/#vacancies)
+* [Sirris](https://recruitment.sirris.be/)
 * [Sopra Steria Belgium](https://careers.soprasteria.be/jobs)
 * [SpotIT](https://jobs.spotit.be/#jobs)
 * [Starion](https://www.stariongroup.eu/careers/job-search/)
