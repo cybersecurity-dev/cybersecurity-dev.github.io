@@ -76,20 +76,25 @@ title: Awesome Lists
  * [ ] [Awesome Object-oriented Programming ](https://github.com/cybersecurity-dev/awesome-object-oriented-programming)
  * [![](https://img.shields.io/badge/X86_Assembly-0071C5?logo=intel&logoColor=white)](https://en.wikipedia.org/wiki/X86_assembly_language)
    * [ ] [Awesome Assembly Programming Language](https://github.com/cybersecurity-dev/awesome-assembly-programming-language)
+   * [ ] [Awesome Assembly Programming Resources](https://github.com/cybersecurity-dev/awesome-assembly-programming-resources)
  
  * [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
    * [ ] [Awesome C Programming Language](https://github.com/cybersecurity-dev/awesome-c-programming-language)
+   * [ ] [Awesome C Programming Resources](https://github.com/cybersecurity-dev/awesome-c-programming-resources)
    * [ ] [Awesome C Style Guide](https://github.com/cybersecurity-dev/awesome-c-style-guide)
  
  * [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
    * [ ] [Awesome C++ Programming Language](https://github.com/cybersecurity-dev/awesome-cpp-programming-language)
+   * [ ] [Awesome C++ Programming Resources](https://github.com/cybersecurity-dev/awesome-cpp-programming-resources)
    * [ ] [Awesome C++ Style Guide](https://github.com/cybersecurity-dev/awesome-cpp-style-guide)
  
  * [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
    * [ ] [Awesome C# Programming Language](https://github.com/cybersecurity-dev/awesome-csharp-programming-language)
+   * [ ] [Awesome C# Programming Resources](https://github.com/cybersecurity-dev/awesome-csharp-programming-resources)
  
  * [![F#](https://img.shields.io/badge/F%23-378BBA?logo=fsharp&logoColor=fff)](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))
    * [ ] [Awesome F# Programming Language](https://github.com/cybersecurity-dev/awesome-fsharp-programming-language)
+   * [ ] [Awesome F# Programming Resources](https://github.com/cybersecurity-dev/awesome-fsharp-programming-resources)
  
  * [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](https://en.wikipedia.org/wiki/Go_(programming_language))
    * [ ] [Awesome Go Programming Language](https://github.com/cybersecurity-dev/awesome-go-programming-language)
