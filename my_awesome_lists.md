@@ -98,6 +98,7 @@ title: Awesome Lists
  
  * [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](https://en.wikipedia.org/wiki/Go_(programming_language))
    * [ ] [Awesome Go Programming Language](https://github.com/cybersecurity-dev/awesome-go-programming-language)
+   * [ ] [Awesome Go Programming Resources](https://github.com/cybersecurity-dev/awesome-go-programming-resources)
  
  * [![Python](https://img.shields.io/badge/python-3670A0?&logo=python&logoColor=ffdd54)](https://en.wikipedia.org/wiki/Python_(programming_language))
    * [ ] [Awesome Python Programming Language](https://github.com/cybersecurity-dev/awesome-python-programming-language)
@@ -105,6 +106,7 @@ title: Awesome Lists
  
  * [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](https://en.wikipedia.org/wiki/Rust_(programming_language))
    * [ ] [Awesome Rust Programming Language](https://github.com/cybersecurity-dev/awesome-rust-programming-language)
+   * [ ] [Awesome Rust Programming Resources](https://github.com/cybersecurity-dev/awesome-rust-programming-resources)
 
 ---
 
