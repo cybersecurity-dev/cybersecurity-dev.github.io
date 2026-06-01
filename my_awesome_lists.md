@@ -172,9 +172,13 @@ title: Awesome Lists
 #### Malware Types
   * [ ] [Awesome Advanced Persistent Threat](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat)
   * [ ] [Awesome Fileless Malware](https://github.com/cybersecurity-dev/awesome-fileless-malware)
+  * [ ] [Awesome Fileless Malware Resource](https://github.com/cybersecurity-dev/awesome-fileless-malware-resources)
   * [ ] [Awesome Metamorphic Malware](https://github.com/cybersecurity-dev/awesome-metamorphic-malware)
   * [ ] [Awesome Polymorphic Malware](https://github.com/cybersecurity-dev/awesome-polymorphic-malware)
+  * [ ] [Awesome Bootkit Malware](https://github.com/cybersecurity-dev/awesome-bootkit-malware)
+  * [ ] [Awesome Bootkit Malware Resources](https://github.com/cybersecurity-dev/awesome-bootkit-malware-resources)
   * [ ] [Awesome Rootkit Malware](https://github.com/cybersecurity-dev/awesome-rootkit-malware)
+  * [ ] [Awesome Rootkit Malware Resources](https://github.com/cybersecurity-dev/awesome-rootkit-malware-resources)
 
 ---
 
