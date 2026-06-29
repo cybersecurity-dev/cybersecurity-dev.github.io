@@ -139,7 +139,7 @@ title: Cybersecurity in Belgium
 * [Nokia Belgium](https://jobs.nokia.com/en/sites/CX_1/jobs?keyword=security&lastSelectedFacet=LOCATIONS&location=Belgium&locationId=300000000471490&locationLevel=country&mode=location&selectedLocationsFacet=300000000471490)
 * [Orange Cyberdefense Belgium](https://jobs.orangecyberdefense.com/pages/orange-cyberdefense-belgium)
 * [Proximus Ada](https://www.proximus-ada.com/join-us/)
-* [PwC - Technology, Cybersecurity \& Privacy](https://www.pwc.be/en/careers/job-results.html?wdcountry=BEL&wdjobsite=Global_Experienced_Careers|Global_Campus_Careers&wdjfam=18869697|18869704|18869705|18869714|18869716|18869717|18869718|18869632|18869794|18869812|18869836|18869838|18869591|18869634)
+* [PwC - Technology, Cybersecurity \& Privacy](https://www.pwc.be/en/careers/job-results.html?wdcountry=BEL&wdjobsite=Global_Experienced_Careers%7CGlobal_Campus_Careers&wdjfam=18869697%7C18869704%7C18869705%7C18869714%7C18869716%7C18869717%7C18869718%7C18869632%7C18869794%7C18869812%7C18869836%7C18869838%7C18869591%7C18869634)
 * [Resilix](https://www.resilix.be/jobs)
 * [Secutec](https://secutec.com/en/careers)
 * [SecWise](https://secwise.be/jobs/#vacancies)
