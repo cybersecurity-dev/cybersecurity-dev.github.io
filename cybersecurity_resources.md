@@ -111,6 +111,33 @@ title: Up-to-date Cybersecurity
 - [Wazuh](https://wazuh.com/blog/category/engineering/)
 - [Zimperium](https://zimperium.com/blog)
 
+## RSS
+* [0dayfans](https://0dayfans.com/feed.rss)
+* [Acronis](https://www.acronis.com/en-us/blog/feed.xml)
+* [Akamai](https://feeds.feedburner.com/akamai/blog)
+* [Binary Ninja](https://binary.ninja/feed.xml)
+* [Bitdefender Labs](https://www.bitdefender.com/nuxt/api/en-us/rss/labs/)
+* [Cisco Talos](https://feeds.feedburner.com/feedburner/Talos)
+* [CrowdStrike Blog](https://www.crowdstrike.com/en-us/blog/feed)
+* [Dark Reading](https://www.darkreading.com/rss.xml)
+* [Dayzerosec](https://dayzerosec.com/feed.xml)
+* [Elastic Security Labs](https://www.elastic.co/security-labs/rss/feed.xml)
+* [Firefox - Attack & Defense](https://attackanddefense.dev/feed.xml)
+* [FortiGuard Labs](https://feeds.fortinet.com/fortinet/blog/threat-research)
+* [Joe Security](https://www.joesecurity.org/rss)
+* [Kaspersky (Securelist)](https://securelist.com/feed/)
+* [Krebs on Security](https://krebsonsecurity.com/feed/)
+* [Malwarebytes Labs](https://www.malwarebytes.com/blog/feed/index.xml)
+* [Microsoft Security Blog](https://www.microsoft.com/en-us/security/blog/feed/)
+* [Palo Alto Unit 42](https://unit42.paloaltonetworks.com/feed/)
+* [Schneier on Security](https://www.schneier.com/feed/)
+* [SecurityWeek](https://www.securityweek.com/feed/)
+* [Thales Security](https://cpl.thalesgroup.com/blog/feed)
+* [Threat Intelligence (Google Cloud)](https://cloudblog.withgoogle.com/topics/threat-intelligence/rss/)
+* [Virus Bulletin Blog](https://blog.virustotal.com/feeds/posts/default)
+* [VirusTotal Blog](https://blog.virustotal.com/feeds/posts/default)
+* [WeLiveSecurity](https://www.welivesecurity.com/en/rss/feed/)
+
 ---
 ---
 ---
