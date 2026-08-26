@@ -9,7 +9,7 @@ title: Cybersecurity in Belgium
     </a>
 </p>
 
-<h1 align="center">Cyber Security in <em><strong><code>Belgium</code></strong></em> </h1>
+<h1 align="center">Cybersecurity in <em><strong><code>Belgium</code></strong></em> </h1>
 
 
 ## **`Community`**
