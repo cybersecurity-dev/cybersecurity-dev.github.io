@@ -59,6 +59,10 @@
         ga('create', '{{ site.google_analytics }}', 'auto');
         ga('send', 'pageview');
       </script>
+	  <script type="module">
+  		import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  		mermaid.initialize({ startOnLoad: true });
+	  </script>
     {% endif %}
   </body>
 </html>
