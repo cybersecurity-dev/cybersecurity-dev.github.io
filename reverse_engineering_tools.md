@@ -3,6 +3,53 @@ layout: default
 title: Reverse Engineering Tools 
 ---
 
+```mermaid
+mindmap
+  root((Reverse Engineering </br>Tools))
+
+    Static Analysis
+      IDA Pro
+      Ghidra
+      Binary Ninja
+      Radare2
+      Cutter
+
+    Dynamic Analysis
+      x64dbg
+      GDB
+      WinDbg
+      LLDB
+
+    Instrumentation
+      Frida
+      Pin
+      DynamoRIO
+
+    Symbolic Execution
+      angr
+      Triton
+      Manticore
+
+    Memory Forensics
+      Volatility
+      Rekall
+
+    Networking
+      Wireshark
+      tcpdump
+
+    Firmware
+      Binwalk
+      QEMU
+      Firmware Mod Kit
+
+    Malware Analysis
+      PEStudio
+      DIE
+      ProcMon
+      Process Hacker
+```
+
 <h1 align="center"><em><strong><code>Reverse Engineering</code></strong></em> Tools</h1>
 
 ## Encoding / Decoding
