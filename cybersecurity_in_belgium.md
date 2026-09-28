@@ -141,7 +141,7 @@ title: Cybersecurity in Belgium
 * [Refracted Security](https://refracted.eu/blog-insights/)
 * [Sopra Steria Belgium](https://www.soprasteria.be/newsroom/blog)
 * [SpotIT](https://www.spotit.be/en/resources/blogs-news/)
-* [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/news) - [`RSS` - News Feed](https://ccb.belgium.be/news.xml) | [`RSS`- Advisories Feed](https://ccb.belgium.be/advisories.xml)
+* [The Centre for Cybersecurity Belgium](https://ccb.belgium.be/news) - [`RSS` - News Feed](https://ccb.belgium.be/news.xml) and [`RSS`- Advisories Feed](https://ccb.belgium.be/advisories.xml)
 * [Toreon](https://www.toreon.com/news/)
 
 ## Live Cyber Threat in Belgium
