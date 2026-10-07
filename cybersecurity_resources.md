@@ -8,7 +8,7 @@ flowchart LR
 
     A["◢◤ CYBERSECURITY RESOURCES◥◣"]
 
-    style A fill:none,color:#00FFFF,stroke:#00A8FF,stroke-width:6px
+    style A fill:none,color:#00FFFF,stroke:#00A8FF,stroke-width:16px
 ```
 
 ## Books
