@@ -2,14 +2,17 @@
 layout: default
 title: Up-to-date Cybersecurity
 ---
-
+<div align="center">
+    
 ```mermaid
 flowchart LR
 
-    A["◢◤ CYBERSECURITY◣◥RESOURCES◥◣"]
+    A["◢◤ CYBERSECURITY RESOURCES◥◣"]
 
     style A fill:none,color:#00FFFF,stroke:#00A8FF,stroke-width:6px
 ```
+
+</div>
 
 ## Books
 * [Cyberjutsu: Cybersecurity for the Modern Ninja](https://www.amazon.com/Cyberjutsu-Cybersecurity-Modern-Ben-McCarty/dp/1718500548/)
