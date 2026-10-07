@@ -13,7 +13,7 @@ title: Up-to-date Cybersecurity
 
 flowchart LR
 
-A["   ◢◤CYBERSECURITY RESOURCES◥◣   "]
+A["   ◢◤CYBERSECURITY◣◥RESOURCES◥◣   "]
 
 style A fill:none,color:#00FFFF,stroke:#FF00FF,stroke-width:10px
 
