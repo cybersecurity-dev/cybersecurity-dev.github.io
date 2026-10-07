@@ -3,6 +3,14 @@ layout: default
 title: Up-to-date Cybersecurity
 ---
 
+```mermaid
+flowchart LR
+
+    A["◢◤ CYBERSECURITY RESOURCES◥◣"]
+
+    style A fill:none,color:#00FFFF,stroke:#00A8FF,stroke-width:6px
+```
+
 ## Books
 * [Cyberjutsu: Cybersecurity for the Modern Ninja](https://www.amazon.com/Cyberjutsu-Cybersecurity-Modern-Ben-McCarty/dp/1718500548/)
 * [Cybersecurity for Small Networks: A Guide for the Reasonably Paranoid](https://www.amazon.com/Securing-Small-Networks-Seth-Enoka/dp/171850148X)
