@@ -6,9 +6,9 @@ title: Up-to-date Cybersecurity
 ```mermaid
 flowchart LR
 
-    A["◢◤ CYBERSECURITY RESOURCES◥◣"]
+    A["◢◤ CYBERSECURITY◣◥RESOURCES◥◣"]
 
-    style A fill:none,color:#00FFFF,stroke:#00A8FF,stroke-width:16px
+    style A fill:none,color:#00FFFF,stroke:#00A8FF,stroke-width:6px
 ```
 
 ## Books
