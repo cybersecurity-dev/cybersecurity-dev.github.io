@@ -20,9 +20,9 @@ flowchart LR
     MD --> MB["Dynamic<br/>Analysis"]
     MD --> MC["Hybrid<br/>and<br/>AI-Based<br/>Analysis"]
 
-    VD --> VA["Source-Code Analysis"]
-    VD --> VB["Binary Analysis"]
-    VD --> VC["Fuzzing and Penetration Testing"]
+    VD --> VA["Source-Code<br/>Analysis"]
+    VD --> VB["Binary<br/>Analysis"]
+    VD --> VC["Fuzzing<br/>and<br/>Penetration<br/>Testing"]
 
     NAD --> NA["Packet<br/>and<br/>Flow Analysis"]
     NAD --> NB["Intrusion<br/>Detection"]
