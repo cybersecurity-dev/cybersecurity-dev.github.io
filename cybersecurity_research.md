@@ -5,14 +5,11 @@ title: Cybersecurity Scientific Research
 
 <h1 align="center">
   <a href="https://wikipedia.org/wiki/Computer_security" target="_blank">Cybersecurity</a>
-  <em><strong><code>Scientific Research</code></strong></em>
+  <em><strong><code>Research Center</code></strong></em>
 </h1>
-
-* [Dataset Construction Toolkit](https://github.com/cybersecurity-dev/Dataset-Construction-Toolkit)
 
 
 ## Malware Detection Projects
-
 
 ### [Android Malware](https://github.com/cybersecurity-dev/awesome-android-malware-analysis) Detection
 
