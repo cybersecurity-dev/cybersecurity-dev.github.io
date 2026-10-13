@@ -8,6 +8,47 @@ title: Cybersecurity Scientific Research
   <em><strong><code>Research Center</code></strong></em>
 </h1>
 
+```mermaid
+flowchart LR
+    CRC["Cybersecurity<br/>Research<br/>Center"]
+
+    CRC --> MD["Malware<br/>Detection"]
+    CRC --> VD["Vulnerability<br/>Detection"]
+    CRC --> NAD["Network<br/>Anomaly<br/>Detection"]
+
+    MD --> MA["Static<br/>Analysis"]
+    MD --> MB["Dynamic<br/>Analysis"]
+    MD --> MC["Hybrid<br/>and<br/>AI-Based<br/>Analysis"]
+
+    VD --> VA["Source-Code Analysis"]
+    VD --> VB["Binary Analysis"]
+    VD --> VC["Fuzzing and Penetration Testing"]
+
+    NAD --> NA["Packet<br/>and<br/>Flow Analysis"]
+    NAD --> NB["Intrusion<br/>Detection"]
+    NAD --> NC["Behavioral<br/>and<br/>Time-Series<br/>Analysis"]
+
+    MD -.-> TI["Threat Intelligence"]
+    VD -.-> TI
+    NAD -.-> TI
+
+    TI --> DS["Datasets"]
+    DS --> ML["AI/ML Models"]
+    ML --> EV["Evaluation"]
+    EV --> DP["Deployment"]
+
+    classDef root fill:#172554,stroke:#60a5fa,color:#fff,stroke-width:3px
+    classDef malware fill:#7f1d1d,stroke:#f87171,color:#fff
+    classDef vuln fill:#713f12,stroke:#fbbf24,color:#fff
+    classDef network fill:#14532d,stroke:#4ade80,color:#fff
+    classDef shared fill:#3b0764,stroke:#c084fc,color:#fff
+
+    class CRC root
+    class MD,MA,MB,MC malware
+    class VD,VA,VB,VC vuln
+    class NAD,NA,NB,NC network
+    class TI,DS,ML,EV,DP shared
+```
 
 ## Malware Detection Projects
 
