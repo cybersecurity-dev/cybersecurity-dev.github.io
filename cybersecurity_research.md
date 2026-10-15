@@ -52,7 +52,7 @@ flowchart LR
 
 ## Malware Detection Projects
 
-### [Android Malware](https://github.com/cybersecurity-dev/awesome-android-malware-analysis) Detection
+### [`Android Malware`](https://github.com/cybersecurity-dev/awesome-android-malware-analysis) Detection
 
 #### [Static](https://github.com/cybersecurity-dev/awesome-static-android-malware-analysis) Malware Detection
 * [Static Android Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-static-android-malware-detection-scientific-research)
@@ -66,7 +66,7 @@ flowchart LR
 
 ---
 
-### [Linux Malware](https://github.com/cybersecurity-dev/awesome-linux-malware-analysis) Detection
+### [`Linux Malware`](https://github.com/cybersecurity-dev/awesome-linux-malware-analysis) Detection
 
 #### [Static](https://github.com/cybersecurity-dev/awesome-static-linux-malware-analysis) Malware Detection
 * [Static Linux Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-static-linux-malware-detection-scientific-research)
@@ -80,7 +80,7 @@ flowchart LR
 
 ---
 
-### [Windows Malware](https://github.com/cybersecurity-dev/awesome-windows-malware-analysis) Detection
+### [`Windows Malware`](https://github.com/cybersecurity-dev/awesome-windows-malware-analysis) Detection
 
 #### [Static](https://github.com/cybersecurity-dev/awesome-static-windows-malware-analysis) Malware Detection
 * [Static Windows Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-static-windows-malware-detection-scientific-research)
@@ -92,6 +92,11 @@ flowchart LR
 * [Graph based Windows Malware Detection](https://github.com/cybersecurity-dev/awesome-graph-based-windows-malware-detection)
 * [Graph based Windows Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-graph-based-windows-malware-detection-scientific-research)
 
+---
+
+### [`Network-based`](https://github.com/cybersecurity-dev/awesome-malware-traffic-analysis) Malware Detection
+
+* [Network-level Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-network-level-malware-detection-scientific-research)
 
 ---
 ---
