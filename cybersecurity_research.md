@@ -18,7 +18,7 @@ flowchart LR
 
     MD --> MA["Static<br/>Analysis"]
     MD --> MB["Dynamic<br/>Analysis"]
-    MD --> MC["Hybrid<br/>and<br/>AI-Based<br/>Analysis"]
+    MD --> MC["Hybrid<br/>Analysis"]
 
     VD --> VA["Source-Code<br/>Analysis"]
     VD --> VB["Binary<br/>Analysis"]
@@ -91,6 +91,14 @@ flowchart LR
 #### Malware Detection with Graph Representation Learning
 * [Graph based Windows Malware Detection](https://github.com/cybersecurity-dev/awesome-graph-based-windows-malware-detection)
 * [Graph based Windows Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-graph-based-windows-malware-detection-scientific-research)
+
+---
+
+### [`Fileless Malware`](https://github.com/cybersecurity-dev/awesome-fileless-malware) Detection
+
+* [Fileless Malware Cookbook](https://github.com/cybersecurity-dev/Fileless-Malware-Cookbook)
+* [Fileless Malware Resources](https://github.com/cybersecurity-dev/awesome-fileless-malware-resources)
+* [Fileless Malware Scientific Research](https://github.com/cybersecurity-dev/awesome-fileless-malware-scientific-research)
 
 ---
 
