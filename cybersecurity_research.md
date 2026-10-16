@@ -107,6 +107,13 @@ flowchart LR
 * [Network-level Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-network-level-malware-detection-scientific-research)
 
 ---
+
+### Advanced Persistent Threat ([`APT`](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat)) Malware Detection
+
+* [Advanced Persistent Threat Resources](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat-resources)
+* [Advanced Persistent Threat Scientific Research](https://github.com/cybersecurity-dev/awesome-advanced-persistent-threat-scientific-research)
+
+---
 ---
 
 ## Vulnerability Detection Scientific Research
