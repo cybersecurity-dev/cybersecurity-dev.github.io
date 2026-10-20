@@ -104,7 +104,9 @@ flowchart LR
 
 ### [`Network-based`](https://github.com/cybersecurity-dev/awesome-malware-traffic-analysis) Malware Detection
 
-* [Network-level Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-network-level-malware-detection-scientific-research)
+* [Flow-level Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-flow-level-malware-detection-scientific-research)
+* [Malware Traffic Analysis](https://github.com/cybersecurity-dev/awesome-malware-traffic-analysis)
+* [Malware Traffic Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-malware-traffic-analysis-scientific-research)
 
 ---
 
