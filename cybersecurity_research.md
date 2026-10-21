@@ -99,14 +99,17 @@ flowchart LR
 * [Fileless Malware Cookbook](https://github.com/cybersecurity-dev/Fileless-Malware-Cookbook)
 * [Fileless Malware Resources](https://github.com/cybersecurity-dev/awesome-fileless-malware-resources)
 * [Fileless Malware Scientific Research](https://github.com/cybersecurity-dev/awesome-fileless-malware-scientific-research)
+  * [Malicious Powershell Script Detection Scientific Research](https://github.com/cybersecurity-dev/Awesome-Malicious-Powershell-Script-Detection-Scientific-Research)
+  * [Malicious Shell Script Detection Scientific Research](https://github.com/cybersecurity-dev/Awesome-Malicious-Shell-Script-Detection-Scientific-Research)
 
 ---
 
 ### [`Network-based`](https://github.com/cybersecurity-dev/awesome-malware-traffic-analysis) Malware Detection
 
-* [Flow-level Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-flow-level-malware-detection-scientific-research)
 * [Malware Traffic Analysis](https://github.com/cybersecurity-dev/awesome-malware-traffic-analysis)
 * [Malware Traffic Analysis Scientific Research](https://github.com/cybersecurity-dev/awesome-malware-traffic-analysis-scientific-research)
+  * [Flow-level Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-flow-level-malware-detection-scientific-research) 
+  * [Raw Packet level Malware Detection Scientific Research](https://github.com/cybersecurity-dev/awesome-raw-packet-level-malware-detection-scientific-research)
 
 ---
 
